@@ -13,4 +13,5 @@ Example :  python MetroTransit.py "METRO Blue Line" "Mall of America Station" "n
 NOTE : 
 1. All the parameters are case senstive, directions are in small case, while route and stops are matching cases with API response. This could be improved by making all cases to lower.
 2. Time for next trip is exaclty given as from API response. For some cases it gives in min, else it gives the exact time of next trip. This could be converted in "min" if a current time stamp is available for perticular zone.
+3. In case of wrong params, like wrong direction or route, or in case of no data or no available next trip. it will print "None", this could be given as proper messages if needed.
 
