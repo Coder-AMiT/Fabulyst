@@ -2,6 +2,7 @@ Python code for getting the "Next Trip" time point detail for a "Route" to a "St
 
 Dependency: 
 Python with requests module.
+
 Command to execute :
 
 python MetroTransit.py <Route> <Stop> <Direction>
