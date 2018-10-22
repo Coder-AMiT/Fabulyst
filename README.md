@@ -5,7 +5,7 @@ Python with requests module.
 
 Command to execute :
 
-python MetroTransit.py <Route> <Stop> <Direction>
+python MetroTransit.py Route Stop Direction
   
 Example :  python MetroTransit.py "METRO Blue Line" "Mall of America Station" "north"
   
