@@ -1,8 +1,11 @@
-1. Python code for getting the "Next Trip" time point detail for a "Route" to a "Stop" in a perticular "Direction"
+Python code for getting the "Next Trip" time point detail for a "Route" to a "Stop" in a perticular "Direction"
 
-Dependency: Python with requests module.
-Command to execute : 
+Dependency: 
+Python with requests module.
+Command to execute :
+
 python MetroTransit.py <Route> <Stop> <Direction>
+  
 Example :  python MetroTransit.py "METRO Blue Line" "Mall of America Station" "north"
   
   
