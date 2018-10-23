@@ -1,0 +1,4722 @@
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  6:42
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  6:52
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  7:02
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  7:12
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  7:22
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  7:32
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  7:42
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  7:52
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  8:02
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  8:12
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  8:22
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  8:32
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  8:42
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  8:52
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  9:02
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  9:12
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  9:22
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  9:32
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  9:42
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  9:52
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  10:02
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  10:12
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  10:22
+Route =  901  | Direction =  1  | Stop =  TF22
+DepartureText =  10:32
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  6:35
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  6:45
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  6:55
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  7:05
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  7:15
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  7:25
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  7:35
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  7:45
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  7:55
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  8:05
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  8:15
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  8:25
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  8:35
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  8:45
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  8:55
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  9:05
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  9:15
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  9:25
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  9:35
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  9:45
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  9:55
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  10:05
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  10:15
+Route =  901  | Direction =  1  | Stop =  TF12
+DepartureText =  10:25
+Route =  901  | Direction =  1  | Stop =  WAR2
+DepartureText =  5 Min
+Route =  901  | Direction =  1  | Stop =  WAR2
+DepartureText =  6:47
+Route =  901  | Direction =  1  | Stop =  WAR2
+DepartureText =  6:57
+Route =  901  | Direction =  1  | Stop =  WAR2
+DepartureText =  7:07
+Route =  901  | Direction =  1  | Stop =  WAR2
+DepartureText =  7:17
+Route =  901  | Direction =  1  | Stop =  WAR2
+DepartureText =  7:27
+Route =  901  | Direction =  1  | Stop =  5SNI
+DepartureText =  7 Min
+Route =  901  | Direction =  1  | Stop =  5SNI
+DepartureText =  6:49
+Route =  901  | Direction =  1  | Stop =  5SNI
+DepartureText =  6:59
+Route =  901  | Direction =  1  | Stop =  5SNI
+DepartureText =  7:09
+Route =  901  | Direction =  1  | Stop =  5SNI
+DepartureText =  7:19
+Route =  901  | Direction =  1  | Stop =  5SNI
+DepartureText =  7:29
+Route =  901  | Direction =  1  | Stop =  GOVT
+DepartureText =  9 Min
+Route =  901  | Direction =  1  | Stop =  GOVT
+DepartureText =  6:51
+Route =  901  | Direction =  1  | Stop =  GOVT
+DepartureText =  7:01
+Route =  901  | Direction =  1  | Stop =  GOVT
+DepartureText =  7:11
+Route =  901  | Direction =  1  | Stop =  GOVT
+DepartureText =  7:21
+Route =  901  | Direction =  1  | Stop =  GOVT
+DepartureText =  7:31
+Route =  901  | Direction =  1  | Stop =  USB2
+DepartureText =  Due
+Route =  901  | Direction =  1  | Stop =  USB2
+DepartureText =  11 Min
+Route =  901  | Direction =  1  | Stop =  USB2
+DepartureText =  6:53
+Route =  901  | Direction =  1  | Stop =  USB2
+DepartureText =  7:03
+Route =  901  | Direction =  1  | Stop =  USB2
+DepartureText =  7:13
+Route =  901  | Direction =  1  | Stop =  USB2
+DepartureText =  7:23
+Route =  901  | Direction =  1  | Stop =  CDRV
+DepartureText =  4 Min
+Route =  901  | Direction =  1  | Stop =  CDRV
+DepartureText =  13 Min
+Route =  901  | Direction =  1  | Stop =  CDRV
+DepartureText =  6:55
+Route =  901  | Direction =  1  | Stop =  CDRV
+DepartureText =  7:05
+Route =  901  | Direction =  1  | Stop =  CDRV
+DepartureText =  7:15
+Route =  901  | Direction =  1  | Stop =  CDRV
+DepartureText =  7:25
+Route =  901  | Direction =  1  | Stop =  FRHI
+DepartureText =  5 Min
+Route =  901  | Direction =  1  | Stop =  FRHI
+DepartureText =  14 Min
+Route =  901  | Direction =  1  | Stop =  FRHI
+DepartureText =  6:56
+Route =  901  | Direction =  1  | Stop =  FRHI
+DepartureText =  7:06
+Route =  901  | Direction =  1  | Stop =  FRHI
+DepartureText =  7:16
+Route =  901  | Direction =  1  | Stop =  FRHI
+DepartureText =  7:26
+Route =  901  | Direction =  1  | Stop =  LAHI
+DepartureText =  8 Min
+Route =  901  | Direction =  1  | Stop =  LAHI
+DepartureText =  17 Min
+Route =  901  | Direction =  1  | Stop =  LAHI
+DepartureText =  6:59
+Route =  901  | Direction =  1  | Stop =  LAHI
+DepartureText =  7:09
+Route =  901  | Direction =  1  | Stop =  LAHI
+DepartureText =  7:19
+Route =  901  | Direction =  1  | Stop =  LAHI
+DepartureText =  7:29
+Route =  901  | Direction =  1  | Stop =  38HI
+DepartureText =  11 Min
+Route =  901  | Direction =  1  | Stop =  38HI
+DepartureText =  19 Min
+Route =  901  | Direction =  1  | Stop =  38HI
+DepartureText =  7:01
+Route =  901  | Direction =  1  | Stop =  38HI
+DepartureText =  7:11
+Route =  901  | Direction =  1  | Stop =  38HI
+DepartureText =  7:21
+Route =  901  | Direction =  1  | Stop =  38HI
+DepartureText =  7:31
+Route =  901  | Direction =  1  | Stop =  46HI
+DepartureText =  2 Min
+Route =  901  | Direction =  1  | Stop =  46HI
+DepartureText =  13 Min
+Route =  901  | Direction =  1  | Stop =  46HI
+DepartureText =  6:53
+Route =  901  | Direction =  1  | Stop =  46HI
+DepartureText =  7:03
+Route =  901  | Direction =  1  | Stop =  46HI
+DepartureText =  7:13
+Route =  901  | Direction =  1  | Stop =  46HI
+DepartureText =  7:23
+Route =  901  | Direction =  1  | Stop =  50HI
+DepartureText =  4 Min
+Route =  901  | Direction =  1  | Stop =  50HI
+DepartureText =  15 Min
+Route =  901  | Direction =  1  | Stop =  50HI
+DepartureText =  6:55
+Route =  901  | Direction =  1  | Stop =  50HI
+DepartureText =  7:05
+Route =  901  | Direction =  1  | Stop =  50HI
+DepartureText =  7:15
+Route =  901  | Direction =  1  | Stop =  50HI
+DepartureText =  7:25
+Route =  901  | Direction =  1  | Stop =  VAMC
+DepartureText =  6 Min
+Route =  901  | Direction =  1  | Stop =  VAMC
+DepartureText =  17 Min
+Route =  901  | Direction =  1  | Stop =  VAMC
+DepartureText =  6:57
+Route =  901  | Direction =  1  | Stop =  VAMC
+DepartureText =  7:07
+Route =  901  | Direction =  1  | Stop =  VAMC
+DepartureText =  7:17
+Route =  901  | Direction =  1  | Stop =  VAMC
+DepartureText =  7:27
+Route =  901  | Direction =  1  | Stop =  FTSN
+DepartureText =  8 Min
+Route =  901  | Direction =  1  | Stop =  FTSN
+DepartureText =  19 Min
+Route =  901  | Direction =  1  | Stop =  FTSN
+DepartureText =  6:59
+Route =  901  | Direction =  1  | Stop =  FTSN
+DepartureText =  7:09
+Route =  901  | Direction =  1  | Stop =  FTSN
+DepartureText =  7:19
+Route =  901  | Direction =  1  | Stop =  FTSN
+DepartureText =  7:29
+Route =  901  | Direction =  1  | Stop =  LIND
+DepartureText =  Due
+Route =  901  | Direction =  1  | Stop =  LIND
+DepartureText =  10 Min
+Route =  901  | Direction =  1  | Stop =  LIND
+DepartureText =  6:53
+Route =  901  | Direction =  1  | Stop =  LIND
+DepartureText =  7:01
+Route =  901  | Direction =  1  | Stop =  LIND
+DepartureText =  7:11
+Route =  901  | Direction =  1  | Stop =  LIND
+DepartureText =  7:21
+Route =  901  | Direction =  1  | Stop =  HHTE
+DepartureText =  4 Min
+Route =  901  | Direction =  1  | Stop =  HHTE
+DepartureText =  12 Min
+Route =  901  | Direction =  1  | Stop =  HHTE
+DepartureText =  6:55
+Route =  901  | Direction =  1  | Stop =  HHTE
+DepartureText =  7:03
+Route =  901  | Direction =  1  | Stop =  HHTE
+DepartureText =  7:13
+Route =  901  | Direction =  1  | Stop =  HHTE
+DepartureText =  7:23
+Route =  901  | Direction =  1  | Stop =  AM34
+DepartureText =  7 Min
+Route =  901  | Direction =  1  | Stop =  AM34
+DepartureText =  16 Min
+Route =  901  | Direction =  1  | Stop =  AM34
+DepartureText =  6:59
+Route =  901  | Direction =  1  | Stop =  AM34
+DepartureText =  7:06
+Route =  901  | Direction =  1  | Stop =  AM34
+DepartureText =  7:16
+Route =  901  | Direction =  1  | Stop =  AM34
+DepartureText =  7:26
+Route =  901  | Direction =  1  | Stop =  BLCT
+DepartureText =  9 Min
+Route =  901  | Direction =  1  | Stop =  BLCT
+DepartureText =  17 Min
+Route =  901  | Direction =  1  | Stop =  BLCT
+DepartureText =  7:00
+Route =  901  | Direction =  1  | Stop =  BLCT
+DepartureText =  7:08
+Route =  901  | Direction =  1  | Stop =  BLCT
+DepartureText =  7:18
+Route =  901  | Direction =  1  | Stop =  BLCT
+DepartureText =  7:28
+Route =  901  | Direction =  1  | Stop =  28AV
+DepartureText =  2 Min
+Route =  901  | Direction =  1  | Stop =  28AV
+DepartureText =  10 Min
+Route =  901  | Direction =  1  | Stop =  28AV
+DepartureText =  18 Min
+Route =  901  | Direction =  1  | Stop =  28AV
+DepartureText =  7:01
+Route =  901  | Direction =  1  | Stop =  28AV
+DepartureText =  7:10
+Route =  901  | Direction =  1  | Stop =  28AV
+DepartureText =  7:20
+Route =  901  | Direction =  1  | Stop =  MAAM
+DepartureText =  5 Min
+Route =  901  | Direction =  1  | Stop =  MAAM
+DepartureText =  13 Min
+Route =  901  | Direction =  1  | Stop =  MAAM
+DepartureText =  6:54
+Route =  901  | Direction =  1  | Stop =  MAAM
+DepartureText =  7:04
+Route =  901  | Direction =  1  | Stop =  MAAM
+DepartureText =  7:14
+Route =  901  | Direction =  4  | Stop =  MAAM
+DepartureText =  Due
+Route =  901  | Direction =  4  | Stop =  MAAM
+DepartureText =  6:43
+Route =  901  | Direction =  4  | Stop =  MAAM
+DepartureText =  6:53
+Route =  901  | Direction =  4  | Stop =  MAAM
+DepartureText =  7:03
+Route =  901  | Direction =  4  | Stop =  MAAM
+DepartureText =  7:13
+Route =  901  | Direction =  4  | Stop =  MAAM
+DepartureText =  7:23
+Route =  901  | Direction =  4  | Stop =  28AV
+DepartureText =  4 Min
+Route =  901  | Direction =  4  | Stop =  28AV
+DepartureText =  6:46
+Route =  901  | Direction =  4  | Stop =  28AV
+DepartureText =  6:56
+Route =  901  | Direction =  4  | Stop =  28AV
+DepartureText =  7:06
+Route =  901  | Direction =  4  | Stop =  28AV
+DepartureText =  7:16
+Route =  901  | Direction =  4  | Stop =  28AV
+DepartureText =  7:26
+Route =  901  | Direction =  4  | Stop =  BLCT
+DepartureText =  5 Min
+Route =  901  | Direction =  4  | Stop =  BLCT
+DepartureText =  6:47
+Route =  901  | Direction =  4  | Stop =  BLCT
+DepartureText =  6:57
+Route =  901  | Direction =  4  | Stop =  BLCT
+DepartureText =  7:07
+Route =  901  | Direction =  4  | Stop =  BLCT
+DepartureText =  7:17
+Route =  901  | Direction =  4  | Stop =  BLCT
+DepartureText =  7:27
+Route =  901  | Direction =  4  | Stop =  AM34
+DepartureText =  6 Min
+Route =  901  | Direction =  4  | Stop =  AM34
+DepartureText =  6:48
+Route =  901  | Direction =  4  | Stop =  AM34
+DepartureText =  6:58
+Route =  901  | Direction =  4  | Stop =  AM34
+DepartureText =  7:08
+Route =  901  | Direction =  4  | Stop =  AM34
+DepartureText =  7:18
+Route =  901  | Direction =  4  | Stop =  AM34
+DepartureText =  7:28
+Route =  901  | Direction =  4  | Stop =  HHTE
+DepartureText =  2 Min
+Route =  901  | Direction =  4  | Stop =  HHTE
+DepartureText =  9 Min
+Route =  901  | Direction =  4  | Stop =  HHTE
+DepartureText =  6:51
+Route =  901  | Direction =  4  | Stop =  HHTE
+DepartureText =  7:01
+Route =  901  | Direction =  4  | Stop =  HHTE
+DepartureText =  7:11
+Route =  901  | Direction =  4  | Stop =  HHTE
+DepartureText =  7:21
+Route =  901  | Direction =  4  | Stop =  LIND
+DepartureText =  5 Min
+Route =  901  | Direction =  4  | Stop =  LIND
+DepartureText =  13 Min
+Route =  901  | Direction =  4  | Stop =  LIND
+DepartureText =  6:55
+Route =  901  | Direction =  4  | Stop =  LIND
+DepartureText =  7:05
+Route =  901  | Direction =  4  | Stop =  LIND
+DepartureText =  7:15
+Route =  901  | Direction =  4  | Stop =  LIND
+DepartureText =  7:25
+Route =  901  | Direction =  4  | Stop =  FTSN
+DepartureText =  7 Min
+Route =  901  | Direction =  4  | Stop =  FTSN
+DepartureText =  15 Min
+Route =  901  | Direction =  4  | Stop =  FTSN
+DepartureText =  6:57
+Route =  901  | Direction =  4  | Stop =  FTSN
+DepartureText =  7:07
+Route =  901  | Direction =  4  | Stop =  FTSN
+DepartureText =  7:17
+Route =  901  | Direction =  4  | Stop =  FTSN
+DepartureText =  7:27
+Route =  901  | Direction =  4  | Stop =  VAMC
+DepartureText =  9 Min
+Route =  901  | Direction =  4  | Stop =  VAMC
+DepartureText =  17 Min
+Route =  901  | Direction =  4  | Stop =  VAMC
+DepartureText =  6:59
+Route =  901  | Direction =  4  | Stop =  VAMC
+DepartureText =  7:09
+Route =  901  | Direction =  4  | Stop =  VAMC
+DepartureText =  7:19
+Route =  901  | Direction =  4  | Stop =  VAMC
+DepartureText =  7:29
+Route =  901  | Direction =  4  | Stop =  50HI
+DepartureText =  Due
+Route =  901  | Direction =  4  | Stop =  50HI
+DepartureText =  11 Min
+Route =  901  | Direction =  4  | Stop =  50HI
+DepartureText =  19 Min
+Route =  901  | Direction =  4  | Stop =  50HI
+DepartureText =  7:01
+Route =  901  | Direction =  4  | Stop =  50HI
+DepartureText =  7:11
+Route =  901  | Direction =  4  | Stop =  50HI
+DepartureText =  7:21
+Route =  901  | Direction =  4  | Stop =  46HI
+DepartureText =  3 Min
+Route =  901  | Direction =  4  | Stop =  46HI
+DepartureText =  12 Min
+Route =  901  | Direction =  4  | Stop =  46HI
+DepartureText =  6:53
+Route =  901  | Direction =  4  | Stop =  46HI
+DepartureText =  7:03
+Route =  901  | Direction =  4  | Stop =  46HI
+DepartureText =  7:13
+Route =  901  | Direction =  4  | Stop =  46HI
+DepartureText =  7:23
+Route =  901  | Direction =  4  | Stop =  38HI
+DepartureText =  5 Min
+Route =  901  | Direction =  4  | Stop =  38HI
+DepartureText =  14 Min
+Route =  901  | Direction =  4  | Stop =  38HI
+DepartureText =  6:55
+Route =  901  | Direction =  4  | Stop =  38HI
+DepartureText =  7:05
+Route =  901  | Direction =  4  | Stop =  38HI
+DepartureText =  7:15
+Route =  901  | Direction =  4  | Stop =  38HI
+DepartureText =  7:25
+Route =  901  | Direction =  4  | Stop =  LAHI
+DepartureText =  7 Min
+Route =  901  | Direction =  4  | Stop =  LAHI
+DepartureText =  16 Min
+Route =  901  | Direction =  4  | Stop =  LAHI
+DepartureText =  6:57
+Route =  901  | Direction =  4  | Stop =  LAHI
+DepartureText =  7:07
+Route =  901  | Direction =  4  | Stop =  LAHI
+DepartureText =  7:17
+Route =  901  | Direction =  4  | Stop =  LAHI
+DepartureText =  7:27
+Route =  901  | Direction =  4  | Stop =  FRHI
+DepartureText =  8 Min
+Route =  901  | Direction =  4  | Stop =  FRHI
+DepartureText =  18 Min
+Route =  901  | Direction =  4  | Stop =  FRHI
+DepartureText =  7:01
+Route =  901  | Direction =  4  | Stop =  FRHI
+DepartureText =  7:11
+Route =  901  | Direction =  4  | Stop =  FRHI
+DepartureText =  7:21
+Route =  901  | Direction =  4  | Stop =  FRHI
+DepartureText =  7:31
+Route =  901  | Direction =  4  | Stop =  CDRV
+DepartureText =  Due
+Route =  901  | Direction =  4  | Stop =  CDRV
+DepartureText =  10 Min
+Route =  901  | Direction =  4  | Stop =  CDRV
+DepartureText =  20 Min
+Route =  901  | Direction =  4  | Stop =  CDRV
+DepartureText =  7:03
+Route =  901  | Direction =  4  | Stop =  CDRV
+DepartureText =  7:13
+Route =  901  | Direction =  4  | Stop =  CDRV
+DepartureText =  7:23
+Route =  901  | Direction =  4  | Stop =  USB1
+DepartureText =  5 Min
+Route =  901  | Direction =  4  | Stop =  USB1
+DepartureText =  14 Min
+Route =  901  | Direction =  4  | Stop =  USB1
+DepartureText =  6:57
+Route =  901  | Direction =  4  | Stop =  USB1
+DepartureText =  7:05
+Route =  901  | Direction =  4  | Stop =  USB1
+DepartureText =  7:15
+Route =  901  | Direction =  4  | Stop =  USB1
+DepartureText =  7:25
+Route =  901  | Direction =  4  | Stop =  GOVT
+DepartureText =  8 Min
+Route =  901  | Direction =  4  | Stop =  GOVT
+DepartureText =  17 Min
+Route =  901  | Direction =  4  | Stop =  GOVT
+DepartureText =  7:00
+Route =  901  | Direction =  4  | Stop =  GOVT
+DepartureText =  7:07
+Route =  901  | Direction =  4  | Stop =  GOVT
+DepartureText =  7:17
+Route =  901  | Direction =  4  | Stop =  GOVT
+DepartureText =  7:27
+Route =  901  | Direction =  4  | Stop =  5SNI
+DepartureText =  10 Min
+Route =  901  | Direction =  4  | Stop =  5SNI
+DepartureText =  19 Min
+Route =  901  | Direction =  4  | Stop =  5SNI
+DepartureText =  7:02
+Route =  901  | Direction =  4  | Stop =  5SNI
+DepartureText =  7:09
+Route =  901  | Direction =  4  | Stop =  5SNI
+DepartureText =  7:19
+Route =  901  | Direction =  4  | Stop =  5SNI
+DepartureText =  7:29
+Route =  901  | Direction =  4  | Stop =  WAR1
+DepartureText =  12 Min
+Route =  901  | Direction =  4  | Stop =  WAR1
+DepartureText =  6:54
+Route =  901  | Direction =  4  | Stop =  WAR1
+DepartureText =  7:04
+Route =  901  | Direction =  4  | Stop =  WAR1
+DepartureText =  7:11
+Route =  901  | Direction =  4  | Stop =  WAR1
+DepartureText =  7:21
+Route =  901  | Direction =  4  | Stop =  WAR1
+DepartureText =  7:31
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  6:43
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  6:53
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  7:03
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  7:13
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  7:23
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  7:33
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  7:43
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  7:53
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  8:03
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  8:13
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  8:23
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  8:33
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  8:43
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  8:53
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  9:03
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  9:13
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  9:23
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  9:33
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  9:43
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  9:53
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  10:03
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  10:13
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  10:23
+Route =  901  | Direction =  4  | Stop =  TF11
+DepartureText =  10:33
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  6:34
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  6:44
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  6:54
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  7:04
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  7:14
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  7:24
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  7:34
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  7:44
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  7:54
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  8:04
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  8:14
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  8:24
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  8:34
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  8:44
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  8:54
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  9:04
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  9:14
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  9:24
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  9:34
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  9:44
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  9:54
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  10:04
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  10:14
+Route =  901  | Direction =  4  | Stop =  TF21
+DepartureText =  10:24
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  6:37
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  6:47
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  6:57
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  7:07
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  7:17
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  7:27
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  7:37
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  7:47
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  7:57
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  8:07
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  8:17
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  8:27
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  8:37
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  8:47
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  8:57
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  9:07
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  9:17
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  9:27
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  9:37
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  9:47
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  9:57
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  10:07
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  10:17
+Route =  902  | Direction =  2  | Stop =  TF22
+DepartureText =  10:27
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  6:40
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  6:50
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  7:00
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  7:10
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  7:20
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  7:30
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  7:40
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  7:50
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  8:00
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  8:10
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  8:20
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  8:30
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  8:40
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  8:50
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  9:00
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  9:10
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  9:20
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  9:30
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  9:40
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  9:50
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  10:00
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  10:10
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  10:20
+Route =  902  | Direction =  2  | Stop =  TF12
+DepartureText =  10:30
+Route =  902  | Direction =  2  | Stop =  WAR2
+DepartureText =  6:42
+Route =  902  | Direction =  2  | Stop =  WAR2
+DepartureText =  6:52
+Route =  902  | Direction =  2  | Stop =  WAR2
+DepartureText =  7:02
+Route =  902  | Direction =  2  | Stop =  WAR2
+DepartureText =  7:12
+Route =  902  | Direction =  2  | Stop =  WAR2
+DepartureText =  7:22
+Route =  902  | Direction =  2  | Stop =  WAR2
+DepartureText =  7:32
+Route =  902  | Direction =  2  | Stop =  5SNI
+DepartureText =  Due
+Route =  902  | Direction =  2  | Stop =  5SNI
+DepartureText =  6:44
+Route =  902  | Direction =  2  | Stop =  5SNI
+DepartureText =  6:54
+Route =  902  | Direction =  2  | Stop =  5SNI
+DepartureText =  7:04
+Route =  902  | Direction =  2  | Stop =  5SNI
+DepartureText =  7:14
+Route =  902  | Direction =  2  | Stop =  5SNI
+DepartureText =  7:24
+Route =  902  | Direction =  2  | Stop =  GOVT
+DepartureText =  3 Min
+Route =  902  | Direction =  2  | Stop =  GOVT
+DepartureText =  6:46
+Route =  902  | Direction =  2  | Stop =  GOVT
+DepartureText =  6:56
+Route =  902  | Direction =  2  | Stop =  GOVT
+DepartureText =  7:06
+Route =  902  | Direction =  2  | Stop =  GOVT
+DepartureText =  7:16
+Route =  902  | Direction =  2  | Stop =  GOVT
+DepartureText =  7:26
+Route =  902  | Direction =  2  | Stop =  USB2
+DepartureText =  4 Min
+Route =  902  | Direction =  2  | Stop =  USB2
+DepartureText =  6:48
+Route =  902  | Direction =  2  | Stop =  USB2
+DepartureText =  6:58
+Route =  902  | Direction =  2  | Stop =  USB2
+DepartureText =  7:08
+Route =  902  | Direction =  2  | Stop =  USB2
+DepartureText =  7:18
+Route =  902  | Direction =  2  | Stop =  USB2
+DepartureText =  7:28
+Route =  902  | Direction =  2  | Stop =  WEBK
+DepartureText =  8 Min
+Route =  902  | Direction =  2  | Stop =  WEBK
+DepartureText =  6:51
+Route =  902  | Direction =  2  | Stop =  WEBK
+DepartureText =  7:01
+Route =  902  | Direction =  2  | Stop =  WEBK
+DepartureText =  7:11
+Route =  902  | Direction =  2  | Stop =  WEBK
+DepartureText =  7:21
+Route =  902  | Direction =  2  | Stop =  WEBK
+DepartureText =  7:31
+Route =  902  | Direction =  2  | Stop =  EABK
+DepartureText =  Due
+Route =  902  | Direction =  2  | Stop =  EABK
+DepartureText =  10 Min
+Route =  902  | Direction =  2  | Stop =  EABK
+DepartureText =  6:53
+Route =  902  | Direction =  2  | Stop =  EABK
+DepartureText =  7:03
+Route =  902  | Direction =  2  | Stop =  EABK
+DepartureText =  7:13
+Route =  902  | Direction =  2  | Stop =  EABK
+DepartureText =  7:23
+Route =  902  | Direction =  2  | Stop =  STVI
+DepartureText =  4 Min
+Route =  902  | Direction =  2  | Stop =  STVI
+DepartureText =  13 Min
+Route =  902  | Direction =  2  | Stop =  STVI
+DepartureText =  6:55
+Route =  902  | Direction =  2  | Stop =  STVI
+DepartureText =  7:05
+Route =  902  | Direction =  2  | Stop =  STVI
+DepartureText =  7:15
+Route =  902  | Direction =  2  | Stop =  STVI
+DepartureText =  7:25
+Route =  902  | Direction =  2  | Stop =  PSPK
+DepartureText =  6 Min
+Route =  902  | Direction =  2  | Stop =  PSPK
+DepartureText =  15 Min
+Route =  902  | Direction =  2  | Stop =  PSPK
+DepartureText =  6:57
+Route =  902  | Direction =  2  | Stop =  PSPK
+DepartureText =  7:07
+Route =  902  | Direction =  2  | Stop =  PSPK
+DepartureText =  7:17
+Route =  902  | Direction =  2  | Stop =  PSPK
+DepartureText =  7:27
+Route =  902  | Direction =  2  | Stop =  WGAT
+DepartureText =  8 Min
+Route =  902  | Direction =  2  | Stop =  WGAT
+DepartureText =  17 Min
+Route =  902  | Direction =  2  | Stop =  WGAT
+DepartureText =  6:59
+Route =  902  | Direction =  2  | Stop =  WGAT
+DepartureText =  7:09
+Route =  902  | Direction =  2  | Stop =  WGAT
+DepartureText =  7:19
+Route =  902  | Direction =  2  | Stop =  WGAT
+DepartureText =  7:29
+Route =  902  | Direction =  2  | Stop =  RAST
+DepartureText =  Due
+Route =  902  | Direction =  2  | Stop =  RAST
+DepartureText =  10 Min
+Route =  902  | Direction =  2  | Stop =  RAST
+DepartureText =  20 Min
+Route =  902  | Direction =  2  | Stop =  RAST
+DepartureText =  7:01
+Route =  902  | Direction =  2  | Stop =  RAST
+DepartureText =  7:11
+Route =  902  | Direction =  2  | Stop =  RAST
+DepartureText =  7:21
+Route =  902  | Direction =  2  | Stop =  FAUN
+DepartureText =  4 Min
+Route =  902  | Direction =  2  | Stop =  FAUN
+DepartureText =  13 Min
+Route =  902  | Direction =  2  | Stop =  FAUN
+DepartureText =  6:55
+Route =  902  | Direction =  2  | Stop =  FAUN
+DepartureText =  7:03
+Route =  902  | Direction =  2  | Stop =  FAUN
+DepartureText =  7:13
+Route =  902  | Direction =  2  | Stop =  FAUN
+DepartureText =  7:23
+Route =  902  | Direction =  2  | Stop =  SNUN
+DepartureText =  6 Min
+Route =  902  | Direction =  2  | Stop =  SNUN
+DepartureText =  16 Min
+Route =  902  | Direction =  2  | Stop =  SNUN
+DepartureText =  6:58
+Route =  902  | Direction =  2  | Stop =  SNUN
+DepartureText =  7:06
+Route =  902  | Direction =  2  | Stop =  SNUN
+DepartureText =  7:16
+Route =  902  | Direction =  2  | Stop =  SNUN
+DepartureText =  7:26
+Route =  902  | Direction =  2  | Stop =  HMUN
+DepartureText =  8 Min
+Route =  902  | Direction =  2  | Stop =  HMUN
+DepartureText =  18 Min
+Route =  902  | Direction =  2  | Stop =  HMUN
+DepartureText =  7:00
+Route =  902  | Direction =  2  | Stop =  HMUN
+DepartureText =  7:08
+Route =  902  | Direction =  2  | Stop =  HMUN
+DepartureText =  7:18
+Route =  902  | Direction =  2  | Stop =  HMUN
+DepartureText =  7:28
+Route =  902  | Direction =  2  | Stop =  LXUN
+DepartureText =  9 Min
+Route =  902  | Direction =  2  | Stop =  LXUN
+DepartureText =  19 Min
+Route =  902  | Direction =  2  | Stop =  LXUN
+DepartureText =  7:01
+Route =  902  | Direction =  2  | Stop =  LXUN
+DepartureText =  7:10
+Route =  902  | Direction =  2  | Stop =  LXUN
+DepartureText =  7:20
+Route =  902  | Direction =  2  | Stop =  LXUN
+DepartureText =  7:30
+Route =  902  | Direction =  2  | Stop =  VIUN
+DepartureText =  11 Min
+Route =  902  | Direction =  2  | Stop =  VIUN
+DepartureText =  6:54
+Route =  902  | Direction =  2  | Stop =  VIUN
+DepartureText =  7:03
+Route =  902  | Direction =  2  | Stop =  VIUN
+DepartureText =  7:12
+Route =  902  | Direction =  2  | Stop =  VIUN
+DepartureText =  7:22
+Route =  902  | Direction =  2  | Stop =  VIUN
+DepartureText =  7:32
+Route =  902  | Direction =  2  | Stop =  UNDA
+DepartureText =  2 Min
+Route =  902  | Direction =  2  | Stop =  UNDA
+DepartureText =  13 Min
+Route =  902  | Direction =  2  | Stop =  UNDA
+DepartureText =  6:55
+Route =  902  | Direction =  2  | Stop =  UNDA
+DepartureText =  7:04
+Route =  902  | Direction =  2  | Stop =  UNDA
+DepartureText =  7:14
+Route =  902  | Direction =  2  | Stop =  UNDA
+DepartureText =  7:24
+Route =  902  | Direction =  2  | Stop =  WEUN
+DepartureText =  3 Min
+Route =  902  | Direction =  2  | Stop =  WEUN
+DepartureText =  14 Min
+Route =  902  | Direction =  2  | Stop =  WEUN
+DepartureText =  6:57
+Route =  902  | Direction =  2  | Stop =  WEUN
+DepartureText =  7:06
+Route =  902  | Direction =  2  | Stop =  WEUN
+DepartureText =  7:15
+Route =  902  | Direction =  2  | Stop =  WEUN
+DepartureText =  7:25
+Route =  902  | Direction =  2  | Stop =  UNRI
+DepartureText =  6 Min
+Route =  902  | Direction =  2  | Stop =  UNRI
+DepartureText =  17 Min
+Route =  902  | Direction =  2  | Stop =  UNRI
+DepartureText =  6:59
+Route =  902  | Direction =  2  | Stop =  UNRI
+DepartureText =  7:08
+Route =  902  | Direction =  2  | Stop =  UNRI
+DepartureText =  7:17
+Route =  902  | Direction =  2  | Stop =  UNRI
+DepartureText =  7:27
+Route =  902  | Direction =  2  | Stop =  ROST
+DepartureText =  8 Min
+Route =  902  | Direction =  2  | Stop =  ROST
+DepartureText =  18 Min
+Route =  902  | Direction =  2  | Stop =  ROST
+DepartureText =  7:01
+Route =  902  | Direction =  2  | Stop =  ROST
+DepartureText =  7:10
+Route =  902  | Direction =  2  | Stop =  ROST
+DepartureText =  7:19
+Route =  902  | Direction =  2  | Stop =  ROST
+DepartureText =  7:29
+Route =  902  | Direction =  2  | Stop =  10CE
+DepartureText =  10 Min
+Route =  902  | Direction =  2  | Stop =  10CE
+DepartureText =  20 Min
+Route =  902  | Direction =  2  | Stop =  10CE
+DepartureText =  7:03
+Route =  902  | Direction =  2  | Stop =  10CE
+DepartureText =  7:12
+Route =  902  | Direction =  2  | Stop =  10CE
+DepartureText =  7:21
+Route =  902  | Direction =  2  | Stop =  10CE
+DepartureText =  7:31
+Route =  902  | Direction =  2  | Stop =  CNST
+DepartureText =  12 Min
+Route =  902  | Direction =  2  | Stop =  CNST
+DepartureText =  6:55
+Route =  902  | Direction =  2  | Stop =  CNST
+DepartureText =  7:05
+Route =  902  | Direction =  2  | Stop =  CNST
+DepartureText =  7:14
+Route =  902  | Direction =  2  | Stop =  CNST
+DepartureText =  7:23
+Route =  902  | Direction =  2  | Stop =  CNST
+DepartureText =  7:33
+Route =  902  | Direction =  2  | Stop =  UNDP
+DepartureText =  Due
+Route =  902  | Direction =  2  | Stop =  UNDP
+DepartureText =  14 Min
+Route =  902  | Direction =  2  | Stop =  UNDP
+DepartureText =  6:57
+Route =  902  | Direction =  2  | Stop =  UNDP
+DepartureText =  7:07
+Route =  902  | Direction =  2  | Stop =  UNDP
+DepartureText =  7:16
+Route =  902  | Direction =  3  | Stop =  UNDP
+DepartureText =  6:42
+Route =  902  | Direction =  3  | Stop =  UNDP
+DepartureText =  6:52
+Route =  902  | Direction =  3  | Stop =  UNDP
+DepartureText =  7:02
+Route =  902  | Direction =  3  | Stop =  UNDP
+DepartureText =  7:12
+Route =  902  | Direction =  3  | Stop =  UNDP
+DepartureText =  7:22
+Route =  902  | Direction =  3  | Stop =  UNDP
+DepartureText =  7:32
+Route =  902  | Direction =  3  | Stop =  CNST
+DepartureText =  2 Min
+Route =  902  | Direction =  3  | Stop =  CNST
+DepartureText =  6:44
+Route =  902  | Direction =  3  | Stop =  CNST
+DepartureText =  6:54
+Route =  902  | Direction =  3  | Stop =  CNST
+DepartureText =  7:04
+Route =  902  | Direction =  3  | Stop =  CNST
+DepartureText =  7:14
+Route =  902  | Direction =  3  | Stop =  CNST
+DepartureText =  7:24
+Route =  902  | Direction =  3  | Stop =  10CE
+DepartureText =  4 Min
+Route =  902  | Direction =  3  | Stop =  10CE
+DepartureText =  6:46
+Route =  902  | Direction =  3  | Stop =  10CE
+DepartureText =  6:56
+Route =  902  | Direction =  3  | Stop =  10CE
+DepartureText =  7:06
+Route =  902  | Direction =  3  | Stop =  10CE
+DepartureText =  7:16
+Route =  902  | Direction =  3  | Stop =  10CE
+DepartureText =  7:26
+Route =  902  | Direction =  3  | Stop =  ROST
+DepartureText =  5 Min
+Route =  902  | Direction =  3  | Stop =  ROST
+DepartureText =  6:48
+Route =  902  | Direction =  3  | Stop =  ROST
+DepartureText =  6:58
+Route =  902  | Direction =  3  | Stop =  ROST
+DepartureText =  7:08
+Route =  902  | Direction =  3  | Stop =  ROST
+DepartureText =  7:18
+Route =  902  | Direction =  3  | Stop =  ROST
+DepartureText =  7:28
+Route =  902  | Direction =  3  | Stop =  UNRI
+DepartureText =  7 Min
+Route =  902  | Direction =  3  | Stop =  UNRI
+DepartureText =  6:50
+Route =  902  | Direction =  3  | Stop =  UNRI
+DepartureText =  7:00
+Route =  902  | Direction =  3  | Stop =  UNRI
+DepartureText =  7:10
+Route =  902  | Direction =  3  | Stop =  UNRI
+DepartureText =  7:20
+Route =  902  | Direction =  3  | Stop =  UNRI
+DepartureText =  7:30
+Route =  902  | Direction =  3  | Stop =  WEUN
+DepartureText =  9 Min
+Route =  902  | Direction =  3  | Stop =  WEUN
+DepartureText =  6:51
+Route =  902  | Direction =  3  | Stop =  WEUN
+DepartureText =  7:01
+Route =  902  | Direction =  3  | Stop =  WEUN
+DepartureText =  7:11
+Route =  902  | Direction =  3  | Stop =  WEUN
+DepartureText =  7:21
+Route =  902  | Direction =  3  | Stop =  WEUN
+DepartureText =  7:31
+Route =  902  | Direction =  3  | Stop =  UNDA
+DepartureText =  Due
+Route =  902  | Direction =  3  | Stop =  UNDA
+DepartureText =  11 Min
+Route =  902  | Direction =  3  | Stop =  UNDA
+DepartureText =  6:53
+Route =  902  | Direction =  3  | Stop =  UNDA
+DepartureText =  7:03
+Route =  902  | Direction =  3  | Stop =  UNDA
+DepartureText =  7:13
+Route =  902  | Direction =  3  | Stop =  UNDA
+DepartureText =  7:23
+Route =  902  | Direction =  3  | Stop =  VIUN
+DepartureText =  3 Min
+Route =  902  | Direction =  3  | Stop =  VIUN
+DepartureText =  13 Min
+Route =  902  | Direction =  3  | Stop =  VIUN
+DepartureText =  6:54
+Route =  902  | Direction =  3  | Stop =  VIUN
+DepartureText =  7:04
+Route =  902  | Direction =  3  | Stop =  VIUN
+DepartureText =  7:14
+Route =  902  | Direction =  3  | Stop =  VIUN
+DepartureText =  7:24
+Route =  902  | Direction =  3  | Stop =  LXUN
+DepartureText =  4 Min
+Route =  902  | Direction =  3  | Stop =  LXUN
+DepartureText =  14 Min
+Route =  902  | Direction =  3  | Stop =  LXUN
+DepartureText =  6:56
+Route =  902  | Direction =  3  | Stop =  LXUN
+DepartureText =  7:06
+Route =  902  | Direction =  3  | Stop =  LXUN
+DepartureText =  7:16
+Route =  902  | Direction =  3  | Stop =  LXUN
+DepartureText =  7:26
+Route =  902  | Direction =  3  | Stop =  HMUN
+DepartureText =  7 Min
+Route =  902  | Direction =  3  | Stop =  HMUN
+DepartureText =  17 Min
+Route =  902  | Direction =  3  | Stop =  HMUN
+DepartureText =  6:58
+Route =  902  | Direction =  3  | Stop =  HMUN
+DepartureText =  7:08
+Route =  902  | Direction =  3  | Stop =  HMUN
+DepartureText =  7:18
+Route =  902  | Direction =  3  | Stop =  HMUN
+DepartureText =  7:28
+Route =  902  | Direction =  3  | Stop =  SNUN
+DepartureText =  9 Min
+Route =  902  | Direction =  3  | Stop =  SNUN
+DepartureText =  19 Min
+Route =  902  | Direction =  3  | Stop =  SNUN
+DepartureText =  7:00
+Route =  902  | Direction =  3  | Stop =  SNUN
+DepartureText =  7:10
+Route =  902  | Direction =  3  | Stop =  SNUN
+DepartureText =  7:20
+Route =  902  | Direction =  3  | Stop =  SNUN
+DepartureText =  7:30
+Route =  902  | Direction =  3  | Stop =  FAUN
+DepartureText =  2 Min
+Route =  902  | Direction =  3  | Stop =  FAUN
+DepartureText =  11 Min
+Route =  902  | Direction =  3  | Stop =  FAUN
+DepartureText =  6:54
+Route =  902  | Direction =  3  | Stop =  FAUN
+DepartureText =  7:02
+Route =  902  | Direction =  3  | Stop =  FAUN
+DepartureText =  7:12
+Route =  902  | Direction =  3  | Stop =  FAUN
+DepartureText =  7:22
+Route =  902  | Direction =  3  | Stop =  RAST
+DepartureText =  5 Min
+Route =  902  | Direction =  3  | Stop =  RAST
+DepartureText =  14 Min
+Route =  902  | Direction =  3  | Stop =  RAST
+DepartureText =  6:57
+Route =  902  | Direction =  3  | Stop =  RAST
+DepartureText =  7:05
+Route =  902  | Direction =  3  | Stop =  RAST
+DepartureText =  7:15
+Route =  902  | Direction =  3  | Stop =  RAST
+DepartureText =  7:25
+Route =  902  | Direction =  3  | Stop =  WGAT
+DepartureText =  7 Min
+Route =  902  | Direction =  3  | Stop =  WGAT
+DepartureText =  17 Min
+Route =  902  | Direction =  3  | Stop =  WGAT
+DepartureText =  7:00
+Route =  902  | Direction =  3  | Stop =  WGAT
+DepartureText =  7:07
+Route =  902  | Direction =  3  | Stop =  WGAT
+DepartureText =  7:17
+Route =  902  | Direction =  3  | Stop =  WGAT
+DepartureText =  7:27
+Route =  902  | Direction =  3  | Stop =  PSPK
+DepartureText =  9 Min
+Route =  902  | Direction =  3  | Stop =  PSPK
+DepartureText =  19 Min
+Route =  902  | Direction =  3  | Stop =  PSPK
+DepartureText =  7:01
+Route =  902  | Direction =  3  | Stop =  PSPK
+DepartureText =  7:09
+Route =  902  | Direction =  3  | Stop =  PSPK
+DepartureText =  7:19
+Route =  902  | Direction =  3  | Stop =  PSPK
+DepartureText =  7:29
+Route =  902  | Direction =  3  | Stop =  STVI
+DepartureText =  11 Min
+Route =  902  | Direction =  3  | Stop =  STVI
+DepartureText =  6:54
+Route =  902  | Direction =  3  | Stop =  STVI
+DepartureText =  7:04
+Route =  902  | Direction =  3  | Stop =  STVI
+DepartureText =  7:11
+Route =  902  | Direction =  3  | Stop =  STVI
+DepartureText =  7:21
+Route =  902  | Direction =  3  | Stop =  STVI
+DepartureText =  7:31
+Route =  902  | Direction =  3  | Stop =  EABK
+DepartureText =  2 Min
+Route =  902  | Direction =  3  | Stop =  EABK
+DepartureText =  13 Min
+Route =  902  | Direction =  3  | Stop =  EABK
+DepartureText =  6:56
+Route =  902  | Direction =  3  | Stop =  EABK
+DepartureText =  7:06
+Route =  902  | Direction =  3  | Stop =  EABK
+DepartureText =  7:13
+Route =  902  | Direction =  3  | Stop =  EABK
+DepartureText =  7:23
+Route =  902  | Direction =  3  | Stop =  WEBK
+DepartureText =  4 Min
+Route =  902  | Direction =  3  | Stop =  WEBK
+DepartureText =  16 Min
+Route =  902  | Direction =  3  | Stop =  WEBK
+DepartureText =  6:59
+Route =  902  | Direction =  3  | Stop =  WEBK
+DepartureText =  7:08
+Route =  902  | Direction =  3  | Stop =  WEBK
+DepartureText =  7:16
+Route =  902  | Direction =  3  | Stop =  WEBK
+DepartureText =  7:26
+Route =  902  | Direction =  3  | Stop =  USB1
+DepartureText =  9 Min
+Route =  902  | Direction =  3  | Stop =  USB1
+DepartureText =  6:54
+Route =  902  | Direction =  3  | Stop =  USB1
+DepartureText =  7:03
+Route =  902  | Direction =  3  | Stop =  USB1
+DepartureText =  7:13
+Route =  902  | Direction =  3  | Stop =  USB1
+DepartureText =  7:19
+Route =  902  | Direction =  3  | Stop =  USB1
+DepartureText =  7:29
+Route =  902  | Direction =  3  | Stop =  GOVT
+DepartureText =  12 Min
+Route =  902  | Direction =  3  | Stop =  GOVT
+DepartureText =  6:56
+Route =  902  | Direction =  3  | Stop =  GOVT
+DepartureText =  7:06
+Route =  902  | Direction =  3  | Stop =  GOVT
+DepartureText =  7:16
+Route =  902  | Direction =  3  | Stop =  GOVT
+DepartureText =  7:21
+Route =  902  | Direction =  3  | Stop =  GOVT
+DepartureText =  7:31
+Route =  902  | Direction =  3  | Stop =  5SNI
+DepartureText =  14 Min
+Route =  902  | Direction =  3  | Stop =  5SNI
+DepartureText =  6:58
+Route =  902  | Direction =  3  | Stop =  5SNI
+DepartureText =  7:08
+Route =  902  | Direction =  3  | Stop =  5SNI
+DepartureText =  7:18
+Route =  902  | Direction =  3  | Stop =  5SNI
+DepartureText =  7:23
+Route =  902  | Direction =  3  | Stop =  5SNI
+DepartureText =  7:33
+Route =  902  | Direction =  3  | Stop =  WAR1
+DepartureText =  Due
+Route =  902  | Direction =  3  | Stop =  WAR1
+DepartureText =  16 Min
+Route =  902  | Direction =  3  | Stop =  WAR1
+DepartureText =  7:00
+Route =  902  | Direction =  3  | Stop =  WAR1
+DepartureText =  7:10
+Route =  902  | Direction =  3  | Stop =  WAR1
+DepartureText =  7:20
+Route =  902  | Direction =  3  | Stop =  WAR1
+DepartureText =  7:25
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  6:37
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  6:47
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  6:57
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  7:07
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  7:17
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  7:27
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  7:37
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  7:47
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  7:57
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  8:07
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  8:17
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  8:27
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  8:37
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  8:47
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  8:57
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  9:07
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  9:17
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  9:27
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  9:37
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  9:47
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  9:57
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  10:07
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  10:17
+Route =  902  | Direction =  3  | Stop =  TF11
+DepartureText =  10:27
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  6:38
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  6:48
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  6:58
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  7:08
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  7:18
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  7:28
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  7:38
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  7:48
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  7:58
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  8:08
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  8:18
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  8:28
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  8:38
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  8:48
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  8:58
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  9:08
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  9:18
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  9:28
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  9:38
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  9:48
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  9:58
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  10:08
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  10:18
+Route =  902  | Direction =  3  | Stop =  TF21
+DepartureText =  10:28
+Route =  903  | Direction =  1  | Stop =  MAAM
+DepartureText =  15 Min
+Route =  903  | Direction =  1  | Stop =  MAAM
+DepartureText =  7:18
+Route =  903  | Direction =  1  | Stop =  MAAM
+DepartureText =  7:38
+Route =  903  | Direction =  1  | Stop =  MAAM
+DepartureText =  7:58
+Route =  903  | Direction =  1  | Stop =  MAAM
+DepartureText =  8:18
+Route =  903  | Direction =  1  | Stop =  MAAM
+DepartureText =  8:38
+Route =  903  | Direction =  1  | Stop =  MAAM
+DepartureText =  8:58
+Route =  903  | Direction =  1  | Stop =  MAAM
+DepartureText =  9:18
+Route =  903  | Direction =  1  | Stop =  MAAM
+DepartureText =  9:38
+Route =  903  | Direction =  1  | Stop =  MAAM
+DepartureText =  9:58
+Route =  903  | Direction =  1  | Stop =  MAAM
+DepartureText =  10:18
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  7 Min
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  6:57
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  7:27
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  7:47
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  8:07
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  8:27
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  8:47
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  9:07
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  9:27
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  9:47
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  10:07
+Route =  903  | Direction =  1  | Stop =  CGTR
+DepartureText =  10:27
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  13 Min
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  7:03
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  7:33
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  7:53
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  8:13
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  8:33
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  8:53
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  9:13
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  9:33
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  9:53
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  10:13
+Route =  903  | Direction =  1  | Stop =  CE14
+DepartureText =  10:33
+Route =  903  | Direction =  1  | Stop =  CE47
+DepartureText =  16 Min
+Route =  903  | Direction =  1  | Stop =  CE47
+DepartureText =  7:06
+Route =  903  | Direction =  1  | Stop =  CE47
+DepartureText =  7:36
+Route =  903  | Direction =  1  | Stop =  CE47
+DepartureText =  7:56
+Route =  903  | Direction =  1  | Stop =  CE47
+DepartureText =  8:15
+Route =  903  | Direction =  1  | Stop =  CE47
+DepartureText =  8:35
+Route =  903  | Direction =  1  | Stop =  CE47
+DepartureText =  8:55
+Route =  903  | Direction =  1  | Stop =  CE47
+DepartureText =  9:15
+Route =  903  | Direction =  1  | Stop =  CE47
+DepartureText =  9:35
+Route =  903  | Direction =  1  | Stop =  CE47
+DepartureText =  9:55
+Route =  903  | Direction =  1  | Stop =  CE47
+DepartureText =  10:15
+Route =  903  | Direction =  1  | Stop =  APVY
+DepartureText =  19 Min
+Route =  903  | Direction =  1  | Stop =  APVY
+DepartureText =  7:09
+Route =  903  | Direction =  1  | Stop =  APVY
+DepartureText =  7:39
+Route =  903  | Direction =  1  | Stop =  APVY
+DepartureText =  7:59
+Route =  903  | Direction =  1  | Stop =  APVY
+DepartureText =  8:18
+Route =  903  | Direction =  1  | Stop =  APVY
+DepartureText =  8:38
+Route =  903  | Direction =  1  | Stop =  APVY
+DepartureText =  8:58
+Route =  903  | Direction =  1  | Stop =  APVY
+DepartureText =  9:18
+Route =  903  | Direction =  1  | Stop =  APVY
+DepartureText =  9:38
+Route =  903  | Direction =  1  | Stop =  APVY
+DepartureText =  9:58
+Route =  903  | Direction =  1  | Stop =  APVY
+DepartureText =  10:18
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  19 Min
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  7:12
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  7:32
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  7:52
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  8:13
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  8:33
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  8:53
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  9:13
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  9:33
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  9:53
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  10:13
+Route =  903  | Direction =  4  | Stop =  APVY
+DepartureText =  10:33
+Route =  903  | Direction =  4  | Stop =  CE47
+DepartureText =  6:55
+Route =  903  | Direction =  4  | Stop =  CE47
+DepartureText =  7:15
+Route =  903  | Direction =  4  | Stop =  CE47
+DepartureText =  7:35
+Route =  903  | Direction =  4  | Stop =  CE47
+DepartureText =  7:55
+Route =  903  | Direction =  4  | Stop =  CE47
+DepartureText =  8:16
+Route =  903  | Direction =  4  | Stop =  CE47
+DepartureText =  8:36
+Route =  903  | Direction =  4  | Stop =  CE47
+DepartureText =  8:56
+Route =  903  | Direction =  4  | Stop =  CE47
+DepartureText =  9:16
+Route =  903  | Direction =  4  | Stop =  CE47
+DepartureText =  9:36
+Route =  903  | Direction =  4  | Stop =  CE47
+DepartureText =  9:56
+Route =  903  | Direction =  4  | Stop =  CE47
+DepartureText =  10:16
+Route =  903  | Direction =  4  | Stop =  CE14
+DepartureText =  6:58
+Route =  903  | Direction =  4  | Stop =  CE14
+DepartureText =  7:18
+Route =  903  | Direction =  4  | Stop =  CE14
+DepartureText =  7:38
+Route =  903  | Direction =  4  | Stop =  CE14
+DepartureText =  7:58
+Route =  903  | Direction =  4  | Stop =  CE14
+DepartureText =  8:18
+Route =  903  | Direction =  4  | Stop =  CE14
+DepartureText =  8:38
+Route =  903  | Direction =  4  | Stop =  CE14
+DepartureText =  8:58
+Route =  903  | Direction =  4  | Stop =  CE14
+DepartureText =  9:18
+Route =  903  | Direction =  4  | Stop =  CE14
+DepartureText =  9:38
+Route =  903  | Direction =  4  | Stop =  CE14
+DepartureText =  9:58
+Route =  903  | Direction =  4  | Stop =  CE14
+DepartureText =  10:18
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  2 Min
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  7:03
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  7:23
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  7:43
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  8:03
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  8:23
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  8:43
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  9:03
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  9:23
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  9:43
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  10:03
+Route =  903  | Direction =  4  | Stop =  CGTR
+DepartureText =  10:23
+Route =  903  | Direction =  4  | Stop =  MAAM
+DepartureText =  13 Min
+Route =  903  | Direction =  4  | Stop =  MAAM
+DepartureText =  7:14
+Route =  903  | Direction =  4  | Stop =  MAAM
+DepartureText =  7:34
+Route =  903  | Direction =  4  | Stop =  MAAM
+DepartureText =  7:54
+Route =  903  | Direction =  4  | Stop =  MAAM
+DepartureText =  8:14
+Route =  903  | Direction =  4  | Stop =  MAAM
+DepartureText =  8:34
+Route =  903  | Direction =  4  | Stop =  MAAM
+DepartureText =  8:54
+Route =  903  | Direction =  4  | Stop =  MAAM
+DepartureText =  9:14
+Route =  903  | Direction =  4  | Stop =  MAAM
+DepartureText =  9:34
+Route =  903  | Direction =  4  | Stop =  MAAM
+DepartureText =  9:54
+Route =  903  | Direction =  4  | Stop =  MAAM
+DepartureText =  10:14
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  9 Min
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  19 Min
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  7:00
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  7:10
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  7:20
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  7:30
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  7:41
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  7:51
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  8:01
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  8:11
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  8:21
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  8:31
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  8:41
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  8:51
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  9:01
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  9:11
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  9:21
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  9:31
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  9:41
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  9:51
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  10:01
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  10:11
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  10:21
+Route =  2  | Direction =  2  | Stop =  22HE
+DepartureText =  10:31
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  Due
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  11 Min
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  6:54
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  7:02
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  7:12
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  7:22
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  7:32
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  7:43
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  7:53
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  8:03
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  8:13
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  8:23
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  8:33
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  8:43
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  8:53
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  9:03
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  9:13
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  9:23
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  9:33
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  9:43
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  9:53
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  10:03
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  10:13
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  10:23
+Route =  2  | Direction =  2  | Stop =  FRHE
+DepartureText =  10:33
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  4 Min
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  14 Min
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  6:57
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  7:06
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  7:16
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  7:26
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  7:36
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  7:47
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  7:57
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  8:07
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  8:17
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  8:27
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  8:37
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  8:47
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  8:57
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  9:07
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  9:17
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  9:27
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  9:36
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  9:46
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  9:56
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  10:06
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  10:16
+Route =  2  | Direction =  2  | Stop =  NIFR
+DepartureText =  10:26
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  9 Min
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  19 Min
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  7:02
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  7:12
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  7:22
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  7:32
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  7:42
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  7:52
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  8:02
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  8:12
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  8:22
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  8:32
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  8:42
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  8:52
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  9:02
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  9:12
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  9:22
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  9:32
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  9:41
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  9:51
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  10:01
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  10:11
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  10:21
+Route =  2  | Direction =  2  | Stop =  CHFR
+DepartureText =  10:31
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  3 Min
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  12 Min
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  6:56
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  7:06
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  7:16
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  7:26
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  7:36
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  7:46
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  7:56
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  8:06
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  8:16
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  8:26
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  8:36
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  8:46
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  8:56
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  9:06
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  9:16
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  9:26
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  9:36
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  9:46
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  9:56
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  10:06
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  10:16
+Route =  2  | Direction =  2  | Stop =  FRHI
+DepartureText =  10:26
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  8 Min
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  18 Min
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  7:02
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  7:12
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  7:22
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  7:32
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  7:42
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  7:52
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  8:02
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  8:12
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  8:22
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  8:32
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  8:42
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  8:52
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  9:02
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  9:12
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  9:22
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  9:32
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  9:42
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  9:52
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  10:02
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  10:12
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  10:22
+Route =  2  | Direction =  2  | Stop =  25RV
+DepartureText =  10:32
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  4 Min
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  13 Min
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  6:57
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:07
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:17
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:27
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:37
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:47
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:57
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  8:07
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  8:17
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  8:27
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  8:37
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  8:47
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  8:57
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  9:07
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  9:17
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  9:27
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  9:37
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  9:47
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  9:57
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  10:07
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  10:17
+Route =  2  | Direction =  2  | Stop =  ANHA
+DepartureText =  10:27
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  11 Min
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  6:55
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  7:05
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  7:16
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  7:26
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  7:36
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  7:46
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  7:56
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  8:06
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  8:16
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  8:26
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  8:36
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  8:46
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  8:56
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  9:06
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  9:16
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  9:26
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  9:36
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  9:46
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  9:56
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  10:06
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  10:16
+Route =  2  | Direction =  2  | Stop =  4S15
+DepartureText =  10:26
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  3 Min
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  15 Min
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  6:59
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  7:10
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  7:21
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  7:31
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  7:41
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  7:51
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  8:01
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  8:11
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  8:21
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  8:31
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  8:41
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  8:51
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  9:01
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  9:11
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  9:21
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  9:31
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  9:41
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  9:51
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  10:01
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  10:11
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  10:21
+Route =  2  | Direction =  2  | Stop =  8EHE
+DepartureText =  10:31
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  4 Min
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  16 Min
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  7:00
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  7:11
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  7:22
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  7:32
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  7:42
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  7:52
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  8:02
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  8:12
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  8:22
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  8:32
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  8:42
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  8:52
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  9:02
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  9:12
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  9:22
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  9:32
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  9:42
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  9:52
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  10:02
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  10:12
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  10:22
+Route =  2  | Direction =  2  | Stop =  7E2E
+DepartureText =  10:32
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  13 Min
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  6:57
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  7:15
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  7:24
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  7:34
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  7:44
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  7:54
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  8:04
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  8:14
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  8:24
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  8:34
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  8:44
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  8:54
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  9:04
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  9:14
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  9:24
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  9:34
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  9:44
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  9:54
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  10:04
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  10:14
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  10:24
+Route =  2  | Direction =  3  | Stop =  7E2E
+DepartureText =  10:34
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  5 Min
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  14 Min
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  6:58
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  7:07
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  7:16
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  7:25
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  7:35
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  7:45
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  7:55
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  8:05
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  8:15
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  8:25
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  8:35
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  8:45
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  8:55
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  9:05
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  9:14
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  9:15
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  9:25
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  9:30
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  9:35
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  9:45
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  9:55
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  10:05
+Route =  2  | Direction =  3  | Stop =  8EHE
+DepartureText =  10:15
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  Due
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  11 Min
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  20 Min
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  7:04
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  7:14
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  7:23
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  7:33
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  7:43
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  7:53
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  8:03
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  8:13
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  8:23
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  8:33
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  8:43
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  8:53
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  9:03
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  9:13
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  9:22
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  9:23
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  9:33
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  9:38
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  9:43
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  9:53
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  10:03
+Route =  2  | Direction =  3  | Stop =  15UN
+DepartureText =  10:13
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  7 Min
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  18 Min
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:01
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:11
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:21
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:31
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:41
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:51
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:01
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:11
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:21
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:31
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:41
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:51
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:01
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:11
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:21
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:30
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:31
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:41
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:46
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:51
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  10:01
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  10:11
+Route =  2  | Direction =  3  | Stop =  WIHA
+DepartureText =  10:21
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  2 Min
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  12 Min
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  6:56
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  7:06
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  7:17
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  7:27
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  7:38
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  7:48
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  7:58
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  8:08
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  8:18
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  8:28
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  8:38
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  8:48
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  8:58
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  9:08
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  9:18
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  9:28
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  9:38
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  9:47
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  9:57
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  10:07
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  10:17
+Route =  2  | Direction =  3  | Stop =  25RV
+DepartureText =  10:27
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  6 Min
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  17 Min
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  7:01
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  7:11
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  7:22
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  7:33
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  7:44
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  7:54
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  8:04
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  8:14
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  8:24
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  8:34
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  8:44
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  8:54
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  9:04
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  9:14
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  9:24
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  9:34
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  9:44
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  9:53
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  10:03
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  10:13
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  10:23
+Route =  2  | Direction =  3  | Stop =  FRHI
+DepartureText =  10:33
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  Due
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  10 Min
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  6:55
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  7:05
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  7:15
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  7:26
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  7:37
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  7:48
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  7:58
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  8:08
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  8:18
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  8:28
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  8:38
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  8:48
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  8:58
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  9:08
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  9:18
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  9:28
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  9:38
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  9:48
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  9:57
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  10:07
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  10:17
+Route =  2  | Direction =  3  | Stop =  CHFR
+DepartureText =  10:27
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  5 Min
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  14 Min
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  6:59
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  7:09
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  7:20
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  7:31
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  7:42
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  7:53
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  8:03
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  8:13
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  8:23
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  8:33
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  8:43
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  8:53
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  9:03
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  9:13
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  9:23
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  9:33
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  9:43
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  9:53
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  10:02
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  10:12
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  10:22
+Route =  2  | Direction =  3  | Stop =  NIFR
+DepartureText =  10:32
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  8 Min
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  17 Min
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  7:02
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  7:12
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  7:23
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  7:34
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  7:45
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  7:56
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  8:06
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  8:16
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  8:26
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  8:36
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  8:46
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  8:56
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  9:06
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  9:16
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  9:26
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  9:36
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  9:46
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  9:56
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  10:05
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  10:15
+Route =  2  | Direction =  3  | Stop =  FRHE
+DepartureText =  10:25
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  9 Min
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  18 Min
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  7:03
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  7:13
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  7:24
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  7:35
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  7:46
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  7:57
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  8:07
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  8:17
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  8:27
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  8:37
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  8:47
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  8:57
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  9:07
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  9:17
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  9:27
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  9:37
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  9:47
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  9:57
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  10:06
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  10:16
+Route =  2  | Direction =  3  | Stop =  22HE
+DepartureText =  10:26
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  5 Min
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  15 Min
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  7:00
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  7:11
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  7:20
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  7:32
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  7:42
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  7:56
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  8:12
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  8:29
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  8:45
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  9:02
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  9:17
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  9:33
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  9:49
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  10:05
+Route =  3  | Direction =  2  | Stop =  5GAR
+DepartureText =  10:20
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  10 Min
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  20 Min
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  7:05
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  7:16
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  7:25
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  7:37
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  7:47
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  8:01
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  8:17
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  8:34
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  8:50
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  9:07
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  9:22
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  9:38
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  9:54
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  10:10
+Route =  3  | Direction =  2  | Stop =  4NIC
+DepartureText =  10:25
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  4 Min
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  17 Min
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:01
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:12
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:24
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:33
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:45
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  7:55
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  8:09
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  8:25
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  8:42
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  8:58
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  9:14
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  9:29
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  9:45
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  10:01
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  10:17
+Route =  3  | Direction =  2  | Stop =  ANHA
+DepartureText =  10:32
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  8 Min
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  6:55
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  7:05
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  7:16
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  7:28
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  7:38
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  7:50
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  8:00
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  8:14
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  8:30
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  8:47
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  9:03
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  9:19
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  9:34
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  9:50
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  10:06
+Route =  3  | Direction =  2  | Stop =  JOED
+DepartureText =  10:22
+Route =  3  | Direction =  2  | Stop =  KACR
+DepartureText =  14 Min
+Route =  3  | Direction =  2  | Stop =  KACR
+DepartureText =  7:22
+Route =  3  | Direction =  2  | Stop =  KACR
+DepartureText =  7:44
+Route =  3  | Direction =  2  | Stop =  KACR
+DepartureText =  8:06
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  8 Min
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  19 Min
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  19 Min
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  7:04
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  7:14
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  7:27
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  7:27
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  7:38
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  7:49
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  7:49
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  8:00
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  8:11
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  8:11
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  8:24
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  8:40
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  8:57
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  9:13
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  9:29
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  9:44
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  10:00
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  10:16
+Route =  3  | Direction =  2  | Stop =  COES
+DepartureText =  10:32
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  11 Min
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  6:55
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  7:07
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  7:17
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  7:30
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  7:42
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  7:53
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  8:04
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  8:15
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  8:28
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  8:44
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  9:01
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  9:17
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  9:33
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  9:48
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  10:04
+Route =  3  | Direction =  2  | Stop =  COCL
+DepartureText =  10:20
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  15 Min
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  6:59
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  7:11
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  7:21
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  7:34
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  7:46
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  7:57
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  8:08
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  8:19
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  8:32
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  8:48
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  9:05
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  9:21
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  9:37
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  9:52
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  10:08
+Route =  3  | Direction =  2  | Stop =  COSN
+DepartureText =  10:24
+Route =  3  | Direction =  2  | Stop =  HLCO
+DepartureText =  7:01
+Route =  3  | Direction =  2  | Stop =  HLCO
+DepartureText =  7:23
+Route =  3  | Direction =  2  | Stop =  HLCO
+DepartureText =  7:48
+Route =  3  | Direction =  2  | Stop =  HLCO
+DepartureText =  8:10
+Route =  3  | Direction =  2  | Stop =  HLCO
+DepartureText =  8:34
+Route =  3  | Direction =  2  | Stop =  HLCO
+DepartureText =  9:07
+Route =  3  | Direction =  2  | Stop =  HLCO
+DepartureText =  9:39
+Route =  3  | Direction =  2  | Stop =  HLCO
+DepartureText =  10:10
+Route =  3  | Direction =  2  | Stop =  MDAL
+DepartureText =  2 Min
+Route =  3  | Direction =  2  | Stop =  MDAL
+DepartureText =  7:08
+Route =  3  | Direction =  2  | Stop =  MDAL
+DepartureText =  7:30
+Route =  3  | Direction =  2  | Stop =  MDAL
+DepartureText =  7:55
+Route =  3  | Direction =  2  | Stop =  MDAL
+DepartureText =  8:16
+Route =  3  | Direction =  2  | Stop =  MDAL
+DepartureText =  8:40
+Route =  3  | Direction =  2  | Stop =  MDAL
+DepartureText =  9:13
+Route =  3  | Direction =  2  | Stop =  MDAL
+DepartureText =  9:45
+Route =  3  | Direction =  2  | Stop =  MDAL
+DepartureText =  10:16
+Route =  3  | Direction =  2  | Stop =  MARI
+DepartureText =  6 Min
+Route =  3  | Direction =  2  | Stop =  MARI
+DepartureText =  7:12
+Route =  3  | Direction =  2  | Stop =  MARI
+DepartureText =  7:34
+Route =  3  | Direction =  2  | Stop =  MARI
+DepartureText =  7:59
+Route =  3  | Direction =  2  | Stop =  MARI
+DepartureText =  8:20
+Route =  3  | Direction =  2  | Stop =  MARI
+DepartureText =  8:44
+Route =  3  | Direction =  2  | Stop =  MARI
+DepartureText =  9:17
+Route =  3  | Direction =  2  | Stop =  MARI
+DepartureText =  9:49
+Route =  3  | Direction =  2  | Stop =  MARI
+DepartureText =  10:20
+Route =  3  | Direction =  2  | Stop =  FRLE
+DepartureText =  6:54
+Route =  3  | Direction =  2  | Stop =  FRLE
+DepartureText =  7:17
+Route =  3  | Direction =  2  | Stop =  FRLE
+DepartureText =  7:40
+Route =  3  | Direction =  2  | Stop =  FRLE
+DepartureText =  8:03
+Route =  3  | Direction =  2  | Stop =  FRLE
+DepartureText =  8:25
+Route =  3  | Direction =  2  | Stop =  FRLE
+DepartureText =  8:53
+Route =  3  | Direction =  2  | Stop =  FRLE
+DepartureText =  9:26
+Route =  3  | Direction =  2  | Stop =  FRLE
+DepartureText =  9:57
+Route =  3  | Direction =  2  | Stop =  FRLE
+DepartureText =  10:29
+Route =  3  | Direction =  2  | Stop =  DAFR
+DepartureText =  6:59
+Route =  3  | Direction =  2  | Stop =  DAFR
+DepartureText =  7:22
+Route =  3  | Direction =  2  | Stop =  DAFR
+DepartureText =  7:45
+Route =  3  | Direction =  2  | Stop =  DAFR
+DepartureText =  8:08
+Route =  3  | Direction =  2  | Stop =  DAFR
+DepartureText =  8:30
+Route =  3  | Direction =  2  | Stop =  DAFR
+DepartureText =  8:57
+Route =  3  | Direction =  2  | Stop =  DAFR
+DepartureText =  9:30
+Route =  3  | Direction =  2  | Stop =  DAFR
+DepartureText =  10:01
+Route =  3  | Direction =  2  | Stop =  DAFR
+DepartureText =  10:33
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  2 Min
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  12 Min
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  7:05
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  7:18
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  7:29
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  7:41
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  7:52
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  8:06
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  8:15
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  8:27
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  8:37
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  8:51
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  9:04
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  9:24
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  9:36
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  9:55
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  10:07
+Route =  3  | Direction =  2  | Stop =  RIUN
+DepartureText =  10:26
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  8 Min
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  18 Min
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  7:11
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  7:25
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  7:36
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  7:48
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  7:59
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  8:13
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  8:22
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  8:34
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  8:44
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  8:58
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  9:11
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  9:31
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  9:43
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  10:02
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  10:14
+Route =  3  | Direction =  2  | Stop =  5CED
+DepartureText =  10:33
+Route =  3  | Direction =  2  | Stop =  UNDP
+DepartureText =  12 Min
+Route =  3  | Direction =  2  | Stop =  UNDP
+DepartureText =  6:56
+Route =  3  | Direction =  2  | Stop =  UNDP
+DepartureText =  7:16
+Route =  3  | Direction =  2  | Stop =  UNDP
+DepartureText =  7:30
+Route =  3  | Direction =  2  | Stop =  UNDP
+DepartureText =  7:41
+Route =  3  | Direction =  2  | Stop =  UNDP
+DepartureText =  8:49
+Route =  3  | Direction =  2  | Stop =  UNDP
+DepartureText =  9:03
+Route =  3  | Direction =  2  | Stop =  UNDP
+DepartureText =  9:36
+Route =  3  | Direction =  2  | Stop =  UNDP
+DepartureText =  9:48
+Route =  3  | Direction =  2  | Stop =  UNDP
+DepartureText =  10:07
+Route =  3  | Direction =  2  | Stop =  UNDP
+DepartureText =  10:19
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  11 Min
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  6:57
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  7:08
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  7:14
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  7:27
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  7:42
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  7:54
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  8:18
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  9:00
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  9:15
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  9:34
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  9:52
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  10:14
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  10:22
+Route =  3  | Direction =  3  | Stop =  UNDP
+DepartureText =  10:34
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  15 Min
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  7:01
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  7:12
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  7:18
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  7:31
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  7:46
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  7:58
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  8:06
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  8:22
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  8:31
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  8:48
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  9:04
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  9:19
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  9:25
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  9:38
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  9:56
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  10:18
+Route =  3  | Direction =  3  | Stop =  4MIN
+DepartureText =  10:26
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  6:57
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  7:09
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  7:20
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  7:26
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  7:40
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  7:55
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  8:07
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  8:15
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  8:31
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  8:40
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  8:57
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  9:13
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  9:28
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  9:34
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  9:47
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  10:05
+Route =  3  | Direction =  3  | Stop =  RIUN
+DepartureText =  10:27
+Route =  3  | Direction =  3  | Stop =  DAFR
+DepartureText =  6 Min
+Route =  3  | Direction =  3  | Stop =  DAFR
+DepartureText =  7:03
+Route =  3  | Direction =  3  | Stop =  DAFR
+DepartureText =  7:27
+Route =  3  | Direction =  3  | Stop =  DAFR
+DepartureText =  7:47
+Route =  3  | Direction =  3  | Stop =  DAFR
+DepartureText =  8:14
+Route =  3  | Direction =  3  | Stop =  DAFR
+DepartureText =  8:38
+Route =  3  | Direction =  3  | Stop =  DAFR
+DepartureText =  9:04
+Route =  3  | Direction =  3  | Stop =  DAFR
+DepartureText =  9:35
+Route =  3  | Direction =  3  | Stop =  DAFR
+DepartureText =  9:54
+Route =  3  | Direction =  3  | Stop =  DAFR
+DepartureText =  10:34
+Route =  3  | Direction =  3  | Stop =  FRLE
+DepartureText =  9 Min
+Route =  3  | Direction =  3  | Stop =  FRLE
+DepartureText =  7:07
+Route =  3  | Direction =  3  | Stop =  FRLE
+DepartureText =  7:31
+Route =  3  | Direction =  3  | Stop =  FRLE
+DepartureText =  7:51
+Route =  3  | Direction =  3  | Stop =  FRLE
+DepartureText =  8:18
+Route =  3  | Direction =  3  | Stop =  FRLE
+DepartureText =  8:41
+Route =  3  | Direction =  3  | Stop =  FRLE
+DepartureText =  9:07
+Route =  3  | Direction =  3  | Stop =  FRLE
+DepartureText =  9:38
+Route =  3  | Direction =  3  | Stop =  FRLE
+DepartureText =  9:57
+Route =  3  | Direction =  3  | Stop =  MARI
+DepartureText =  7:15
+Route =  3  | Direction =  3  | Stop =  MARI
+DepartureText =  7:32
+Route =  3  | Direction =  3  | Stop =  MARI
+DepartureText =  8:01
+Route =  3  | Direction =  3  | Stop =  MARI
+DepartureText =  8:21
+Route =  3  | Direction =  3  | Stop =  MARI
+DepartureText =  8:46
+Route =  3  | Direction =  3  | Stop =  MARI
+DepartureText =  9:19
+Route =  3  | Direction =  3  | Stop =  MARI
+DepartureText =  9:40
+Route =  3  | Direction =  3  | Stop =  MARI
+DepartureText =  10:12
+Route =  3  | Direction =  3  | Stop =  MDAL
+DepartureText =  7:18
+Route =  3  | Direction =  3  | Stop =  MDAL
+DepartureText =  7:35
+Route =  3  | Direction =  3  | Stop =  MDAL
+DepartureText =  8:04
+Route =  3  | Direction =  3  | Stop =  MDAL
+DepartureText =  8:24
+Route =  3  | Direction =  3  | Stop =  MDAL
+DepartureText =  8:49
+Route =  3  | Direction =  3  | Stop =  MDAL
+DepartureText =  9:22
+Route =  3  | Direction =  3  | Stop =  MDAL
+DepartureText =  9:43
+Route =  3  | Direction =  3  | Stop =  MDAL
+DepartureText =  10:15
+Route =  3  | Direction =  3  | Stop =  HLCO
+DepartureText =  7:25
+Route =  3  | Direction =  3  | Stop =  HLCO
+DepartureText =  7:42
+Route =  3  | Direction =  3  | Stop =  HLCO
+DepartureText =  8:11
+Route =  3  | Direction =  3  | Stop =  HLCO
+DepartureText =  8:31
+Route =  3  | Direction =  3  | Stop =  HLCO
+DepartureText =  8:55
+Route =  3  | Direction =  3  | Stop =  HLCO
+DepartureText =  9:28
+Route =  3  | Direction =  3  | Stop =  HLCO
+DepartureText =  9:49
+Route =  3  | Direction =  3  | Stop =  HLCO
+DepartureText =  10:21
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  15 Min
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  7:13
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  7:28
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  7:37
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  7:45
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  7:57
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  8:14
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  8:24
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  8:34
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  8:47
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  8:58
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  9:13
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  9:31
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  9:44
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  9:52
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  10:03
+Route =  3  | Direction =  3  | Stop =  COSN
+DepartureText =  10:24
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  18 Min
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  6:56
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  7:17
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  7:21
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  7:28
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  7:32
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  7:38
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  7:41
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  7:45
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  7:49
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  7:55
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  8:01
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  8:11
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  8:18
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  8:23
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  8:28
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  8:32
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  8:36
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  8:38
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  8:45
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  8:51
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  8:56
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  9:02
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  9:11
+Route =  3  | Direction =  3  | Stop =  COCL
+DepartureText =  9:17
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  3 Min
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  6:49
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  7:00
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  7:21
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  7:25
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  7:32
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  7:36
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  7:41
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  7:42
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  7:45
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  7:49
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  7:53
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  7:59
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  8:05
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  8:15
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  8:22
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  8:27
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  8:32
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  8:36
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  8:40
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  8:42
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  8:49
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  8:55
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  9:00
+Route =  3  | Direction =  3  | Stop =  COES
+DepartureText =  9:06
+Route =  3  | Direction =  3  | Stop =  KACR
+DepartureText =  7:46
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  11 Min
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  6:58
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  7:09
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  7:31
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  7:36
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  7:43
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  7:48
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  7:54
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  7:55
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  7:57
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  8:01
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  8:05
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  8:11
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  8:17
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  8:27
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  8:34
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  8:39
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  8:44
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  8:48
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  8:52
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  8:54
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  9:00
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  9:06
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  9:11
+Route =  3  | Direction =  3  | Stop =  JOED
+DepartureText =  9:17
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  14 Min
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:01
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:12
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:34
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:39
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:46
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:51
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:57
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  7:58
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:00
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:04
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:08
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:14
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:20
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:30
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:37
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:42
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:47
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:51
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:55
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  8:57
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:03
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:09
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:14
+Route =  3  | Direction =  3  | Stop =  WIHA
+DepartureText =  9:20
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  9 Min
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  6:55
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  7:10
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  7:21
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  7:43
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  7:48
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  7:55
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:00
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:06
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:07
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:09
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:13
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:17
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:23
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:29
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:39
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:46
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:51
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  8:56
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  9:00
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  9:04
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  9:06
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  9:12
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  9:18
+Route =  3  | Direction =  3  | Stop =  4NIC
+DepartureText =  9:23
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  13 Min
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  6:59
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  7:14
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  7:25
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  7:47
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  7:52
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  7:59
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  8:04
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  8:10
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  8:21
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  8:33
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  8:43
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  8:50
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  9:04
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  9:16
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  9:22
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  9:27
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  9:33
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  9:42
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  9:48
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  9:57
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  10:06
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  10:19
+Route =  3  | Direction =  3  | Stop =  5GAR
+DepartureText =  10:27
+Route =  4  | Direction =  1  | Stop =  O81A
+DepartureText =  8:44
+Route =  4  | Direction =  1  | Stop =  O81A
+DepartureText =  9:43
+Route =  4  | Direction =  1  | Stop =  FRH8
+DepartureText =  8:53
+Route =  4  | Direction =  1  | Stop =  FRH8
+DepartureText =  9:52
+Route =  4  | Direction =  1  | Stop =  SL39
+DepartureText =  8:58
+Route =  4  | Direction =  1  | Stop =  SL39
+DepartureText =  9:58
+Route =  4  | Direction =  1  | Stop =  SLVI
+DepartureText =  2 Min
+Route =  4  | Direction =  1  | Stop =  SLVI
+DepartureText =  15 Min
+Route =  4  | Direction =  1  | Stop =  SLVI
+DepartureText =  7:04
+Route =  4  | Direction =  1  | Stop =  SLVI
+DepartureText =  7:17
+Route =  4  | Direction =  1  | Stop =  SLVI
+DepartureText =  7:32
+Route =  4  | Direction =  1  | Stop =  SLVI
+DepartureText =  7:47
+Route =  4  | Direction =  1  | Stop =  SLVI
+DepartureText =  8:08
+Route =  4  | Direction =  1  | Stop =  SLVI
+DepartureText =  8:25
+Route =  4  | Direction =  1  | Stop =  SLVI
+DepartureText =  9:28
+Route =  4  | Direction =  1  | Stop =  SLVI
+DepartureText =  10:29
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  5 Min
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  18 Min
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  7:07
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  7:20
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  7:35
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  7:50
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  8:11
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  8:28
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  9:01
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  9:31
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  10:01
+Route =  4  | Direction =  1  | Stop =  3737
+DepartureText =  10:32
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  4 Min
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  18 Min
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  7:05
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  7:20
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  7:34
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  7:49
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  8:04
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  8:25
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  8:42
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  9:13
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  9:43
+Route =  4  | Direction =  1  | Stop =  BDJO
+DepartureText =  10:13
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  13 Min
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  7:01
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  7:14
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  7:29
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  7:43
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  7:58
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  8:13
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  8:34
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  8:51
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  9:22
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  9:52
+Route =  4  | Direction =  1  | Stop =  DELA
+DepartureText =  10:22
+Route =  4  | Direction =  1  | Stop =  1S1A
+DepartureText =  9:08
+Route =  4  | Direction =  1  | Stop =  1S1A
+DepartureText =  9:15
+Route =  4  | Direction =  1  | Stop =  1S1A
+DepartureText =  9:38
+Route =  4  | Direction =  1  | Stop =  1S1A
+DepartureText =  10:08
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  6:48
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  7:04
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  7:18
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  7:33
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  7:47
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  8:02
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  8:17
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  8:37
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  8:54
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  9:10
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  9:17
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  9:25
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  9:40
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  9:55
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  10:10
+Route =  4  | Direction =  1  | Stop =  WAHE
+DepartureText =  10:25
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  2 Min
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  6:52
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  7:08
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  7:23
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  7:38
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  7:53
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  8:08
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  8:23
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  8:43
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  9:00
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  9:15
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  9:22
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  9:30
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  9:45
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  10:00
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  10:15
+Route =  4  | Direction =  1  | Stop =  8SHE
+DepartureText =  10:30
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  5 Min
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  6:56
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  7:12
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  7:27
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  7:42
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  7:57
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  8:12
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  8:27
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  8:47
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  9:04
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  9:19
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  9:26
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  9:34
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  9:49
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  10:04
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  10:19
+Route =  4  | Direction =  1  | Stop =  MCTC
+DepartureText =  10:34
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  9 Min
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  7:01
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  7:17
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  7:32
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  7:47
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  8:02
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  8:17
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  8:32
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  8:52
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  9:08
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  9:23
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  9:38
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  9:53
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  10:08
+Route =  4  | Direction =  1  | Stop =  FRLY
+DepartureText =  10:23
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  14 Min
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  7:06
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  7:22
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  7:37
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  7:52
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  8:07
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  8:22
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  8:37
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  8:57
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  9:13
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  9:28
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  9:43
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  9:58
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  10:13
+Route =  4  | Direction =  1  | Stop =  LALY
+DepartureText =  10:28
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  20 Min
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  7:12
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  7:28
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  7:43
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  7:58
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  8:13
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  8:28
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  8:42
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  9:02
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  9:18
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  9:33
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  9:48
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  10:03
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  10:18
+Route =  4  | Direction =  1  | Stop =  38BR
+DepartureText =  10:33
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  6:54
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  7:16
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  7:32
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  7:47
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  8:02
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  8:17
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  8:32
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  8:46
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  9:06
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  9:22
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  9:37
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  9:52
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  10:07
+Route =  4  | Direction =  1  | Stop =  46BR
+DepartureText =  10:22
+Route =  4  | Direction =  1  | Stop =  50PE
+DepartureText =  3 Min
+Route =  4  | Direction =  1  | Stop =  50PE
+DepartureText =  6:58
+Route =  4  | Direction =  1  | Stop =  50PE
+DepartureText =  7:36
+Route =  4  | Direction =  1  | Stop =  50PE
+DepartureText =  8:06
+Route =  4  | Direction =  1  | Stop =  50PE
+DepartureText =  8:36
+Route =  4  | Direction =  1  | Stop =  50PE
+DepartureText =  9:10
+Route =  4  | Direction =  1  | Stop =  50PE
+DepartureText =  9:41
+Route =  4  | Direction =  1  | Stop =  50PE
+DepartureText =  10:11
+Route =  4  | Direction =  1  | Stop =  56LY
+DepartureText =  7:21
+Route =  4  | Direction =  1  | Stop =  56LY
+DepartureText =  7:52
+Route =  4  | Direction =  1  | Stop =  56LY
+DepartureText =  8:22
+Route =  4  | Direction =  1  | Stop =  56LY
+DepartureText =  8:51
+Route =  4  | Direction =  1  | Stop =  56LY
+DepartureText =  9:27
+Route =  4  | Direction =  1  | Stop =  56LY
+DepartureText =  9:57
+Route =  4  | Direction =  1  | Stop =  56LY
+DepartureText =  10:27
+Route =  4  | Direction =  1  | Stop =  66LY
+DepartureText =  7:26
+Route =  4  | Direction =  1  | Stop =  66LY
+DepartureText =  7:57
+Route =  4  | Direction =  1  | Stop =  66LY
+DepartureText =  8:27
+Route =  4  | Direction =  1  | Stop =  66LY
+DepartureText =  8:56
+Route =  4  | Direction =  1  | Stop =  66LY
+DepartureText =  9:32
+Route =  4  | Direction =  1  | Stop =  66LY
+DepartureText =  10:02
+Route =  4  | Direction =  1  | Stop =  66LY
+DepartureText =  10:32
+Route =  4  | Direction =  1  | Stop =  77LY
+DepartureText =  7:31
+Route =  4  | Direction =  1  | Stop =  77LY
+DepartureText =  8:02
+Route =  4  | Direction =  1  | Stop =  77LY
+DepartureText =  8:32
+Route =  4  | Direction =  1  | Stop =  77LY
+DepartureText =  9:01
+Route =  4  | Direction =  1  | Stop =  77LY
+DepartureText =  9:37
+Route =  4  | Direction =  1  | Stop =  77LY
+DepartureText =  10:07
+Route =  4  | Direction =  1  | Stop =  66PN
+DepartureText =  8 Min
+Route =  4  | Direction =  1  | Stop =  66PN
+DepartureText =  7:04
+Route =  4  | Direction =  1  | Stop =  66PN
+DepartureText =  7:42
+Route =  4  | Direction =  1  | Stop =  66PN
+DepartureText =  8:12
+Route =  4  | Direction =  1  | Stop =  66PN
+DepartureText =  8:42
+Route =  4  | Direction =  1  | Stop =  66PN
+DepartureText =  9:17
+Route =  4  | Direction =  1  | Stop =  66PN
+DepartureText =  9:48
+Route =  4  | Direction =  1  | Stop =  66PN
+DepartureText =  10:18
+Route =  4  | Direction =  1  | Stop =  AMMO
+DepartureText =  14 Min
+Route =  4  | Direction =  1  | Stop =  AMMO
+DepartureText =  7:10
+Route =  4  | Direction =  1  | Stop =  AMMO
+DepartureText =  7:48
+Route =  4  | Direction =  1  | Stop =  AMMO
+DepartureText =  8:18
+Route =  4  | Direction =  1  | Stop =  AMMO
+DepartureText =  8:48
+Route =  4  | Direction =  1  | Stop =  AMMO
+DepartureText =  9:24
+Route =  4  | Direction =  1  | Stop =  AMMO
+DepartureText =  9:55
+Route =  4  | Direction =  1  | Stop =  AMMO
+DepartureText =  10:25
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  17 Min
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  7:13
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  7:36
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  7:51
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  8:07
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  8:21
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  8:37
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  8:51
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  9:06
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  9:27
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  9:42
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  9:58
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  10:12
+Route =  4  | Direction =  1  | Stop =  82ST
+DepartureText =  10:28
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  8 Min
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  6:56
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  7:04
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  7:09
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  7:19
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  7:33
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  7:42
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  7:48
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  7:58
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  8:24
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  8:43
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  8:57
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  9:14
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  9:28
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  9:44
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  9:58
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  10:14
+Route =  4  | Direction =  4  | Stop =  82ST
+DepartureText =  10:28
+Route =  4  | Direction =  4  | Stop =  AMMO
+DepartureText =  10 Min
+Route =  4  | Direction =  4  | Stop =  AMMO
+DepartureText =  7:06
+Route =  4  | Direction =  4  | Stop =  AMMO
+DepartureText =  7:21
+Route =  4  | Direction =  4  | Stop =  AMMO
+DepartureText =  7:44
+Route =  4  | Direction =  4  | Stop =  AMMO
+DepartureText =  8:00
+Route =  4  | Direction =  4  | Stop =  AMMO
+DepartureText =  8:45
+Route =  4  | Direction =  4  | Stop =  AMMO
+DepartureText =  9:16
+Route =  4  | Direction =  4  | Stop =  AMMO
+DepartureText =  9:46
+Route =  4  | Direction =  4  | Stop =  AMMO
+DepartureText =  10:16
+Route =  4  | Direction =  4  | Stop =  66PN
+DepartureText =  16 Min
+Route =  4  | Direction =  4  | Stop =  66PN
+DepartureText =  7:13
+Route =  4  | Direction =  4  | Stop =  66PN
+DepartureText =  7:28
+Route =  4  | Direction =  4  | Stop =  66PN
+DepartureText =  7:51
+Route =  4  | Direction =  4  | Stop =  66PN
+DepartureText =  8:07
+Route =  4  | Direction =  4  | Stop =  66PN
+DepartureText =  8:52
+Route =  4  | Direction =  4  | Stop =  66PN
+DepartureText =  9:23
+Route =  4  | Direction =  4  | Stop =  66PN
+DepartureText =  9:53
+Route =  4  | Direction =  4  | Stop =  66PN
+DepartureText =  10:23
+Route =  4  | Direction =  4  | Stop =  77LY
+DepartureText =  7:01
+Route =  4  | Direction =  4  | Stop =  77LY
+DepartureText =  7:14
+Route =  4  | Direction =  4  | Stop =  77LY
+DepartureText =  7:38
+Route =  4  | Direction =  4  | Stop =  77LY
+DepartureText =  7:53
+Route =  4  | Direction =  4  | Stop =  77LY
+DepartureText =  8:29
+Route =  4  | Direction =  4  | Stop =  77LY
+DepartureText =  9:02
+Route =  4  | Direction =  4  | Stop =  77LY
+DepartureText =  9:33
+Route =  4  | Direction =  4  | Stop =  77LY
+DepartureText =  10:03
+Route =  4  | Direction =  4  | Stop =  77LY
+DepartureText =  10:33
+Route =  4  | Direction =  4  | Stop =  66LY
+DepartureText =  4 Min
+Route =  4  | Direction =  4  | Stop =  66LY
+DepartureText =  7:06
+Route =  4  | Direction =  4  | Stop =  66LY
+DepartureText =  7:19
+Route =  4  | Direction =  4  | Stop =  66LY
+DepartureText =  7:43
+Route =  4  | Direction =  4  | Stop =  66LY
+DepartureText =  7:58
+Route =  4  | Direction =  4  | Stop =  66LY
+DepartureText =  8:34
+Route =  4  | Direction =  4  | Stop =  66LY
+DepartureText =  9:07
+Route =  4  | Direction =  4  | Stop =  66LY
+DepartureText =  9:38
+Route =  4  | Direction =  4  | Stop =  66LY
+DepartureText =  10:08
+Route =  4  | Direction =  4  | Stop =  56LY
+DepartureText =  9 Min
+Route =  4  | Direction =  4  | Stop =  56LY
+DepartureText =  7:12
+Route =  4  | Direction =  4  | Stop =  56LY
+DepartureText =  7:25
+Route =  4  | Direction =  4  | Stop =  56LY
+DepartureText =  7:49
+Route =  4  | Direction =  4  | Stop =  56LY
+DepartureText =  8:04
+Route =  4  | Direction =  4  | Stop =  56LY
+DepartureText =  8:39
+Route =  4  | Direction =  4  | Stop =  56LY
+DepartureText =  9:12
+Route =  4  | Direction =  4  | Stop =  56LY
+DepartureText =  9:43
+Route =  4  | Direction =  4  | Stop =  56LY
+DepartureText =  10:13
+Route =  4  | Direction =  4  | Stop =  50PE
+DepartureText =  6:57
+Route =  4  | Direction =  4  | Stop =  50PE
+DepartureText =  7:19
+Route =  4  | Direction =  4  | Stop =  50PE
+DepartureText =  7:34
+Route =  4  | Direction =  4  | Stop =  50PE
+DepartureText =  7:57
+Route =  4  | Direction =  4  | Stop =  50PE
+DepartureText =  8:13
+Route =  4  | Direction =  4  | Stop =  50PE
+DepartureText =  8:58
+Route =  4  | Direction =  4  | Stop =  50PE
+DepartureText =  9:29
+Route =  4  | Direction =  4  | Stop =  50PE
+DepartureText =  9:59
+Route =  4  | Direction =  4  | Stop =  50PE
+DepartureText =  10:29
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  4 Min
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  14 Min
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  7:01
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  7:17
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  7:23
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  7:30
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  7:38
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  7:54
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  8:01
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  8:09
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  8:17
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  8:44
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  9:02
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  9:17
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  9:33
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  9:48
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  10:03
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  10:18
+Route =  4  | Direction =  4  | Stop =  46BR
+DepartureText =  10:33
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  8 Min
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  18 Min
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  7:05
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  7:15
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  7:21
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  7:27
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  7:34
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  7:42
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  7:50
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  7:58
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  8:05
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  8:13
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  8:21
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  8:33
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  8:48
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  9:06
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  9:21
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  9:37
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  9:52
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  10:07
+Route =  4  | Direction =  4  | Stop =  38BR
+DepartureText =  10:22
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  15 Min
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  7:01
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  7:13
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  7:23
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  7:29
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  7:35
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  7:42
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  7:49
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  7:57
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  8:05
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  8:12
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  8:20
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  8:28
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  8:40
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  8:55
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  9:13
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  9:28
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  9:43
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  9:58
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  10:13
+Route =  4  | Direction =  4  | Stop =  LALY
+DepartureText =  10:28
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  3 Min
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  6:56
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  7:07
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  7:19
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  7:30
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  7:36
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  7:42
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  7:49
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  7:56
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  8:04
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  8:12
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  8:19
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  8:27
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  8:34
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  8:46
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  9:01
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  9:19
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  9:34
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  9:49
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  10:04
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  10:19
+Route =  4  | Direction =  4  | Stop =  FRLY
+DepartureText =  10:34
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  7 Min
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  7:00
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  7:11
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  7:23
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  7:34
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  7:40
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  7:47
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  7:54
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  8:01
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  8:09
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  8:17
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  8:24
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  8:32
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  8:39
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  8:51
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  9:06
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  9:24
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  9:39
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  9:54
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  10:09
+Route =  4  | Direction =  4  | Stop =  MCTC
+DepartureText =  10:24
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  5 Min
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  12 Min
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  7:05
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  7:10
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  7:16
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  7:28
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  7:39
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  7:46
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  7:53
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  8:00
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  8:07
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  8:15
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  8:23
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  8:30
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  8:38
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  8:45
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  8:57
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  9:12
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  9:30
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  9:45
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  10:00
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  10:15
+Route =  4  | Direction =  4  | Stop =  7SHE
+DepartureText =  10:30
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  8 Min
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  16 Min
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  7:09
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  7:13
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  7:20
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  7:32
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  7:43
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  7:50
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  7:57
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  8:04
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  8:11
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  8:19
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  8:27
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  8:34
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  8:42
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  8:49
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  9:00
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  9:15
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  9:33
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  9:48
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  10:03
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  10:18
+Route =  4  | Direction =  4  | Stop =  WAHE
+DepartureText =  10:33
+Route =  4  | Direction =  4  | Stop =  1S1A
+DepartureText =  18 Min
+Route =  4  | Direction =  4  | Stop =  1S1A
+DepartureText =  7:22
+Route =  4  | Direction =  4  | Stop =  1S1A
+DepartureText =  7:52
+Route =  4  | Direction =  4  | Stop =  1S1A
+DepartureText =  8:06
+Route =  4  | Direction =  4  | Stop =  1S1A
+DepartureText =  8:21
+Route =  4  | Direction =  4  | Stop =  1S1A
+DepartureText =  8:29
+Route =  4  | Direction =  4  | Stop =  1S1A
+DepartureText =  8:51
+Route =  4  | Direction =  4  | Stop =  1S1A
+DepartureText =  9:02
+Route =  4  | Direction =  4  | Stop =  1S1A
+DepartureText =  9:35
+Route =  4  | Direction =  4  | Stop =  1S1A
+DepartureText =  10:05
+Route =  4  | Direction =  4  | Stop =  1S1A
+DepartureText =  10:35
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  Due
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  10 Min
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  7:11
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  7:15
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  7:34
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  7:45
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  7:59
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  8:13
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  8:36
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  8:44
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  9:17
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  9:50
+Route =  4  | Direction =  4  | Stop =  DELA
+DepartureText =  10:20
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  9 Min
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  18 Min
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  7:19
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  7:23
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  7:43
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  7:54
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  8:08
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  8:22
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  8:45
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  8:53
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  9:26
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  9:59
+Route =  4  | Direction =  4  | Stop =  BDJO
+DepartureText =  10:29
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  Due
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  19 Min
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  7:03
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  7:29
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  7:33
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  7:53
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  8:04
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  8:18
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  8:32
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  8:55
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  9:03
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  9:36
+Route =  4  | Direction =  4  | Stop =  3737
+DepartureText =  10:09
+Route =  4  | Direction =  4  | Stop =  SLVI
+DepartureText =  6:57
+Route =  4  | Direction =  4  | Stop =  SLVI
+DepartureText =  7:33
+Route =  4  | Direction =  4  | Stop =  SLVI
+DepartureText =  7:57
+Route =  4  | Direction =  4  | Stop =  SLVI
+DepartureText =  8:08
+Route =  4  | Direction =  4  | Stop =  SLVI
+DepartureText =  8:36
+Route =  4  | Direction =  4  | Stop =  SLVI
+DepartureText =  9:07
+Route =  4  | Direction =  4  | Stop =  SLVI
+DepartureText =  9:40
+Route =  4  | Direction =  4  | Stop =  SL39
+DepartureText =  5 Min
+Route =  4  | Direction =  4  | Stop =  SL39
+DepartureText =  7:07
+Route =  4  | Direction =  4  | Stop =  SL39
+DepartureText =  7:37
+Route =  4  | Direction =  4  | Stop =  SL39
+DepartureText =  8:22
+Route =  4  | Direction =  4  | Stop =  SL39
+DepartureText =  8:59
+Route =  4  | Direction =  4  | Stop =  SL39
+DepartureText =  10:13
+Route =  4  | Direction =  4  | Stop =  FRH8
+DepartureText =  10 Min
+Route =  4  | Direction =  4  | Stop =  FRH8
+DepartureText =  7:12
+Route =  4  | Direction =  4  | Stop =  FRH8
+DepartureText =  7:42
+Route =  4  | Direction =  4  | Stop =  FRH8
+DepartureText =  8:27
+Route =  4  | Direction =  4  | Stop =  FRH8
+DepartureText =  9:04
+Route =  4  | Direction =  4  | Stop =  FRH8
+DepartureText =  10:18
+Route =  4  | Direction =  4  | Stop =  O81A
+DepartureText =  18 Min
+Route =  4  | Direction =  4  | Stop =  O81A
+DepartureText =  7:20
+Route =  4  | Direction =  4  | Stop =  O81A
+DepartureText =  7:50
+Route =  4  | Direction =  4  | Stop =  O81A
+DepartureText =  8:35
+Route =  4  | Direction =  4  | Stop =  O81A
+DepartureText =  9:12
+Route =  4  | Direction =  4  | Stop =  O81A
+DepartureText =  10:26
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  13 Min
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  7:03
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  7:17
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  7:47
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  8:00
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  8:16
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  8:34
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  8:43
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  9:03
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  9:14
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  9:34
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  9:43
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  10:04
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  10:15
+Route =  5  | Direction =  1  | Stop =  BCTC
+DepartureText =  10:35
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  2 Min
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  19 Min
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  7:09
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  7:23
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  7:53
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  8:06
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  8:22
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  8:40
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  8:49
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  9:09
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  9:20
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  9:40
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  9:49
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  10:10
+Route =  5  | Direction =  1  | Stop =  47OS
+DepartureText =  10:21
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  6 Min
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  6:58
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  7:13
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  7:27
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  7:57
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  8:10
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  8:26
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  8:44
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  8:53
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  9:13
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  9:24
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  9:44
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  9:53
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  10:14
+Route =  5  | Direction =  1  | Stop =  44FM
+DepartureText =  10:25
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  Due
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  11 Min
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  7:03
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  7:13
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  7:19
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  7:33
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  7:42
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  8:03
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  8:09
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  8:16
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  8:32
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  8:41
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  8:50
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  8:59
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  9:19
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  9:30
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  9:50
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  9:59
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  10:19
+Route =  5  | Direction =  1  | Stop =  33FM
+DepartureText =  10:30
+Route =  5  | Direction =  1  | Stop =  26PN
+DepartureText =  6:59
+Route =  5  | Direction =  1  | Stop =  26PN
+DepartureText =  7:30
+Route =  5  | Direction =  1  | Stop =  26PN
+DepartureText =  8:01
+Route =  5  | Direction =  1  | Stop =  26PN
+DepartureText =  8:27
+Route =  5  | Direction =  1  | Stop =  26PN
+DepartureText =  9:15
+Route =  5  | Direction =  1  | Stop =  26PN
+DepartureText =  9:42
+Route =  5  | Direction =  1  | Stop =  26PN
+DepartureText =  10:15
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  7 Min
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  17 Min
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  7:03
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  7:09
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  7:19
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  7:25
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  7:34
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  7:39
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  7:48
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  8:05
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  8:09
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  8:15
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  8:22
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  8:31
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  8:38
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  8:47
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  8:56
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  9:05
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  9:19
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  9:25
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  9:36
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  9:46
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  9:56
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  10:05
+Route =  5  | Direction =  1  | Stop =  FRBD
+DepartureText =  10:19
